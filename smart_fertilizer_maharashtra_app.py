@@ -331,7 +331,7 @@ def main():
     <div class="main-header">
         🌾 Smart Fertilizer & Production Enhancement System
         <br><small>Maharashtra Agriculture</small>
-        <div class="government-badge">under-AIML Department</div>
+        <div class="government-badge">under-RIT AIML Department</div>
     </div>
     """, unsafe_allow_html=True)
 
