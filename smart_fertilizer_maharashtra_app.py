@@ -330,8 +330,8 @@ def main():
     st.markdown("""
     <div class="main-header">
         🌾 Smart Fertilizer & Production Enhancement System
-        <br><small>Maharashtra Agriculture Department</small>
-        <div class="government-badge">🏛️ Government of Maharashtra Official</div>
+        <br><small>Maharashtra Agriculture</small>
+        <div class="government-badge">under-AIML Department</div>
     </div>
     """, unsafe_allow_html=True)
 
