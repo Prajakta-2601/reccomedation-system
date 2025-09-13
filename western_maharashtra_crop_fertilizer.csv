@@ -1,0 +1,801 @@
+District,Crop,Season,Soil_pH,Nitrogen,Phosphorus,Potassium,Temperature,Humidity,Rainfall,Area_Hectares,Production_Tonnes,Recommended_Fertilizer,Fertilizer_Quantity_per_Hectare,Organic_Input,Organic_Quantity_per_Hectare,Expected_Yield_Increase_Percent
+Pune,Wheat,Rabi,7.07,37,12,36,25.3,72.4,421,2547,6730,DAP,146,Compost,1310,6.3
+Nashik,Wheat,Summer,7.31,21,17,33,31.0,68.4,1159,2452,5073,NPK,98,Compost,1811,16.7
+Ahmednagar,Wheat,Summer,6.31,35,18,18,24.5,53.5,558,4678,4874,12-32-16,177,Compost,1247,10.6
+Satara,Wheat,Rabi,8.02,25,15,38,27.4,91.5,1140,345,14449,Zinc Sulphate,59,Cow Dung,1458,14.3
+Kolhapur,Cotton(lint),Kharif,6.05,21,10,23,25.8,48.7,742,347,1103,NPK,89,FYM,1556,16.2
+Satara,Grapes,Kharif,7.67,17,20,22,25.9,69.0,799,351,6948,Muriate of Potash,195,Cow Dung,594,22.7
+Satara,Sugarcane,Kharif,7.66,14,27,34,25.4,53.5,853,4657,12542,20-20-0,155,Compost,1519,16.6
+Nashik,Sugarcane,Summer,6.22,20,29,20,21.9,71.9,1098,634,4296,14-35-14,90,Vermicompost,704,9.5
+Kolhapur,Soyabean,Summer,8.59,19,26,21,28.2,89.0,542,3674,6815,Ammonium Sulphate,51,Vermicompost,1333,6.6
+Nashik,Grapes,Rabi,7.19,12,29,31,28.5,74.3,796,1684,1166,Ammonium Sulphate,102,Compost,529,17.5
+Nashik,Pomegranate,Rabi,7.52,36,19,12,23.7,63.6,935,102,13722,Ammonium Sulphate,196,FYM,765,15.9
+Ahmednagar,Onion,Summer,5.78,32,20,10,24.2,76.1,540,2326,4816,NPK,75,Compost,522,18.4
+Pune,Sugarcane,Kharif,8.69,18,17,36,29.7,57.9,639,2737,9920,Single Super Phosphate,103,Cow Dung,1108,14.2
+Solapur,Onion,Kharif,6.02,21,16,17,24.9,70.9,691,2894,13402,12-32-16,100,FYM,538,21.5
+Ahmednagar,Sugarcane,Kharif,7.82,15,22,35,26.4,66.1,481,4936,6708,NPK,163,FYM,672,23.4
+Solapur,Sugarcane,Kharif,6.2,28,22,28,22.5,50.4,959,4640,3334,Calcium Nitrate,66,Cow Dung,1259,5.8
+Ahmednagar,Soyabean,Rabi,6.5,25,18,22,25.7,85.5,570,4998,6594,12-32-16,169,FYM,1936,19.9
+Nashik,Wheat,Rabi,7.63,30,6,16,22.5,79.9,1173,2768,10573,Calcium Nitrate,95,Compost,913,5.7
+Ahmednagar,Soyabean,Summer,7.82,32,26,22,23.6,54.7,979,3985,14339,20-20-0,104,Compost,1191,13.9
+Solapur,Sugarcane,Rabi,5.98,33,6,35,22.9,77.3,925,712,4598,Ammonium Sulphate,99,Vermicompost,1114,14.2
+Ahmednagar,Grapes,Kharif,7.87,38,7,15,29.5,50.9,941,57,10690,Urea,124,Cow Dung,708,18.9
+Sangli,Wheat,Summer,7.84,23,28,12,20.7,70.6,509,3733,11530,Urea,60,FYM,521,12.0
+Kolhapur,Grapes,Rabi,6.25,37,12,15,27.1,65.6,611,3137,5367,NPK,189,FYM,504,21.4
+Pune,Grapes,Rabi,8.28,13,15,37,25.1,85.1,1175,4811,6271,14-35-14,97,FYM,1150,11.9
+Solapur,Grapes,Rabi,5.83,27,16,12,31.6,69.0,837,718,12646,20-20-0,170,Compost,713,11.9
+Kolhapur,Wheat,Rabi,6.5,19,8,22,29.1,46.5,721,3214,8195,10-26-26,105,Cow Dung,1419,9.5
+Pune,Grapes,Rabi,7.38,27,13,22,21.0,77.2,1113,1335,3769,NPK,57,Compost,1406,18.7
+Sangli,Wheat,Kharif,6.32,21,28,39,23.8,59.7,483,3670,4815,17-17-17,63,FYM,1662,6.5
+Nashik,Onion,Kharif,7.21,28,21,34,25.9,59.1,775,210,9757,Magnesium Sulphate,163,Compost,1171,12.3
+Solapur,Pomegranate,Kharif,7.19,17,28,22,23.8,65.4,452,2448,6169,DAP,103,FYM,1166,10.3
+Pune,Sugarcane,Rabi,6.85,10,20,10,29.6,58.1,895,3295,2061,14-35-14,66,FYM,1299,9.6
+Pune,Cotton(lint),Summer,7.67,23,21,38,26.7,86.5,655,67,14040,14-35-14,182,Compost,816,6.2
+Pune,Grapes,Kharif,6.82,32,19,17,25.2,74.7,985,2583,975,Ammonium Sulphate,180,FYM,1292,8.8
+Sangli,Soyabean,Kharif,7.19,15,24,14,29.9,51.3,619,4496,13938,14-35-14,58,Compost,1075,13.9
+Kolhapur,Onion,Rabi,7.92,23,26,29,21.3,56.3,1054,2625,12361,Ferrous Sulphate,171,Vermicompost,1679,15.1
+Sangli,Soyabean,Summer,7.63,11,11,26,24.9,49.3,499,2367,13622,Zinc Sulphate,163,Compost,1947,10.4
+Pune,Cotton(lint),Kharif,7.63,18,14,18,27.0,76.6,528,2968,12193,28-28-0,69,Vermicompost,590,18.0
+Ahmednagar,Wheat,Kharif,6.08,38,8,22,25.4,64.2,618,1103,8834,Ammonium Sulphate,132,Vermicompost,1565,11.7
+Pune,Cotton(lint),Summer,7.42,21,28,34,13.6,53.3,876,365,3616,Potash,70,Compost,1260,12.3
+Ahmednagar,Soyabean,Rabi,6.3,14,28,22,27.4,83.9,1182,4882,3965,Potash,82,Cow Dung,1818,20.7
+Nashik,Cotton(lint),Summer,5.97,11,18,14,28.0,71.1,857,2261,12840,12-32-16,182,Cow Dung,1269,16.0
+Sangli,Sugarcane,Rabi,6.94,28,18,23,21.9,67.2,421,369,4599,NPK,75,Compost,1860,24.1
+Ahmednagar,Cotton(lint),Kharif,6.28,16,18,20,17.3,66.7,1089,4577,9310,12-32-16,157,Compost,500,12.2
+Sangli,Grapes,Summer,7.63,16,29,34,23.3,48.7,959,2765,7333,Single Super Phosphate,138,FYM,608,21.6
+Satara,Sugarcane,Summer,7.65,19,18,35,25.2,71.7,1028,683,9720,Calcium Nitrate,141,FYM,1427,19.8
+Kolhapur,Grapes,Kharif,5.48,26,26,23,25.6,60.0,728,1755,13270,Ferrous Sulphate,82,Compost,1648,22.8
+Satara,Pomegranate,Kharif,6.34,35,24,34,18.1,75.4,1090,4870,6047,20-20-0,67,Cow Dung,1587,24.1
+Ahmednagar,Pomegranate,Rabi,5.83,23,22,16,26.8,72.7,879,722,674,17-17-17,67,FYM,705,5.2
+Satara,Cotton(lint),Kharif,6.63,36,19,33,30.1,64.3,1184,2329,1558,12-32-16,82,FYM,1938,6.8
+Solapur,Sugarcane,Kharif,7.36,20,27,26,29.8,63.4,738,3597,7495,Ferrous Sulphate,76,Cow Dung,1349,18.5
+Kolhapur,Sugarcane,Summer,6.81,37,23,13,30.9,84.9,578,520,9791,14-35-14,98,Compost,1767,12.8
+Ahmednagar,Pomegranate,Rabi,6.53,29,17,19,21.1,49.0,820,3281,9783,Zinc Sulphate,192,Cow Dung,1089,21.4
+Nashik,Cotton(lint),Kharif,8.04,15,16,19,29.5,58.1,881,2657,3272,Ferrous Sulphate,157,Vermicompost,1122,5.2
+Nashik,Onion,Summer,5.16,17,23,24,22.3,78.6,448,3382,2570,Muriate of Potash,117,FYM,1739,21.1
+Kolhapur,Wheat,Kharif,7.99,28,23,29,29.2,82.8,1166,2670,3527,NPK,148,FYM,1464,7.7
+Kolhapur,Wheat,Kharif,6.56,39,24,21,23.1,63.3,429,4747,13550,Calcium Nitrate,68,FYM,1464,10.8
+Ahmednagar,Wheat,Kharif,6.94,28,6,18,27.4,56.6,484,1432,7898,28-28-0,74,Cow Dung,1152,24.4
+Sangli,Sugarcane,Kharif,6.58,33,25,12,32.1,56.9,1188,4425,7836,Ammonium Sulphate,153,Cow Dung,1903,6.0
+Solapur,Pomegranate,Rabi,8.23,33,7,24,29.7,47.8,901,1235,14984,14-35-14,125,Compost,578,12.0
+Ahmednagar,Wheat,Summer,6.02,33,14,21,22.3,89.0,945,1960,10807,NPK,125,FYM,914,6.7
+Sangli,Pomegranate,Summer,7.01,26,9,35,21.4,63.2,728,965,11843,17-17-17,155,Vermicompost,1976,22.1
+Sangli,Sugarcane,Kharif,7.42,33,16,24,29.1,70.6,1009,1667,4306,Zinc Sulphate,82,Compost,1672,19.1
+Sangli,Pomegranate,Summer,5.71,33,11,35,31.3,70.7,833,1733,2300,10-26-26,86,Cow Dung,1138,21.0
+Ahmednagar,Onion,Kharif,6.26,27,13,10,27.7,82.8,987,2475,3064,20-20-0,141,Vermicompost,1290,15.5
+Pune,Cotton(lint),Summer,6.88,21,6,24,24.0,60.0,1086,475,7005,12-32-16,173,Compost,1561,12.2
+Pune,Pomegranate,Rabi,6.29,18,29,20,26.2,60.8,648,1837,3413,DAP,92,Cow Dung,1680,5.0
+Nashik,Pomegranate,Rabi,6.35,32,14,14,27.7,75.0,533,2634,3027,Zinc Sulphate,175,Vermicompost,832,10.6
+Pune,Cotton(lint),Summer,6.72,33,10,16,25.6,43.5,1089,4698,8973,10-26-26,58,Compost,787,15.3
+Pune,Sugarcane,Kharif,7.52,25,16,21,22.3,82.9,764,218,13156,14-35-14,63,Vermicompost,1635,18.3
+Sangli,Sugarcane,Kharif,6.73,27,10,29,30.3,85.9,1139,564,8570,20-20-0,180,Cow Dung,1614,9.6
+Sangli,Pomegranate,Kharif,7.86,25,7,34,33.5,67.9,974,3485,4558,Zinc Sulphate,118,Compost,1572,7.8
+Kolhapur,Onion,Kharif,6.2,25,14,15,31.7,53.7,1179,4575,1748,Single Super Phosphate,75,Cow Dung,660,9.0
+Sangli,Wheat,Rabi,6.0,13,13,31,17.3,75.2,824,2666,5627,Single Super Phosphate,176,FYM,1925,12.1
+Ahmednagar,Onion,Kharif,8.54,32,24,12,30.6,62.7,814,2427,13586,10-26-26,102,FYM,819,8.0
+Kolhapur,Cotton(lint),Kharif,6.47,31,9,19,28.3,66.7,1169,740,12988,17-17-17,90,Vermicompost,1423,8.1
+Solapur,Cotton(lint),Kharif,5.95,16,7,35,23.4,67.6,1055,3254,9450,Single Super Phosphate,131,FYM,863,5.9
+Kolhapur,Grapes,Kharif,5.61,10,9,30,18.2,57.1,911,2554,8284,NPK,151,Cow Dung,1965,22.1
+Pune,Wheat,Rabi,7.86,33,12,35,25.5,69.2,784,402,2441,Potash,70,Vermicompost,974,9.4
+Sangli,Pomegranate,Summer,6.73,38,12,31,27.5,47.4,787,1167,1618,28-28-0,170,Compost,1522,21.4
+Pune,Cotton(lint),Summer,6.8,32,18,39,21.6,38.7,848,1455,1938,Zinc Sulphate,88,Cow Dung,1265,13.8
+Sangli,Grapes,Kharif,6.87,38,28,13,30.9,69.4,963,3989,970,Single Super Phosphate,118,Compost,1101,17.6
+Pune,Sugarcane,Kharif,7.81,29,26,22,30.8,77.5,702,4224,5638,10-26-26,124,Compost,811,6.5
+Solapur,Cotton(lint),Summer,6.86,10,21,28,27.9,58.8,498,727,11569,Urea,111,Compost,1088,16.7
+Pune,Soyabean,Rabi,8.88,17,15,14,20.5,58.2,705,600,9633,Muriate of Potash,94,Compost,1743,10.8
+Pune,Wheat,Rabi,7.11,35,20,32,25.0,72.8,956,869,14508,Magnesium Sulphate,76,Cow Dung,842,6.9
+Ahmednagar,Grapes,Rabi,7.85,32,10,36,28.9,64.8,441,263,10598,17-17-17,165,FYM,1405,23.2
+Solapur,Wheat,Rabi,7.64,17,15,31,28.6,58.2,867,1716,5577,NPK,191,Cow Dung,1617,17.1
+Nashik,Wheat,Rabi,6.97,19,14,27,23.2,68.7,839,4814,9463,NPK,90,FYM,1656,9.8
+Solapur,Soyabean,Rabi,6.53,10,27,10,23.8,65.1,726,943,12364,Single Super Phosphate,155,Compost,671,13.4
+Pune,Onion,Rabi,7.27,30,13,30,23.1,50.0,968,4304,13636,Ammonium Sulphate,123,FYM,1125,12.1
+Satara,Sugarcane,Rabi,7.41,34,28,30,24.9,63.7,432,4126,1228,Calcium Nitrate,109,Compost,1532,19.0
+Satara,Wheat,Rabi,6.54,30,28,37,24.1,67.2,811,3955,11919,Potash,91,Vermicompost,1181,17.1
+Satara,Cotton(lint),Kharif,7.13,38,19,25,23.3,58.6,1025,2836,12291,Magnesium Sulphate,171,Compost,1844,5.4
+Ahmednagar,Sugarcane,Rabi,7.99,23,11,25,25.4,76.1,513,2298,6599,12-32-16,60,FYM,1621,9.0
+Kolhapur,Cotton(lint),Kharif,8.66,23,22,25,26.2,70.8,907,71,13949,Ferrous Sulphate,196,Vermicompost,1692,14.6
+Pune,Sugarcane,Summer,7.68,19,5,37,30.3,61.7,455,3363,12179,Potash,167,Vermicompost,810,13.9
+Solapur,Pomegranate,Kharif,8.49,37,19,31,18.9,66.6,955,1311,1384,10-26-26,114,Compost,1413,15.3
+Satara,Sugarcane,Summer,6.5,28,6,28,30.9,60.5,1123,1222,8862,DAP,96,Cow Dung,1866,19.3
+Ahmednagar,Grapes,Kharif,7.56,34,26,25,23.0,62.3,751,4930,2964,NPK,63,FYM,929,18.6
+Kolhapur,Cotton(lint),Summer,8.07,38,6,10,33.4,62.7,728,2104,6145,Muriate of Potash,116,Vermicompost,1357,12.5
+Satara,Cotton(lint),Kharif,6.28,25,14,29,28.7,43.8,945,1942,12276,Urea,158,Cow Dung,784,22.6
+Sangli,Pomegranate,Kharif,6.61,18,24,29,28.2,65.3,669,2865,11433,Muriate of Potash,59,Compost,1783,6.3
+Nashik,Sugarcane,Summer,8.39,29,19,19,25.6,68.8,595,4724,2077,Zinc Sulphate,173,Compost,994,16.7
+Pune,Wheat,Rabi,6.22,25,14,11,34.3,94.5,812,4634,14368,Calcium Nitrate,66,Compost,854,24.0
+Nashik,Cotton(lint),Rabi,5.93,29,23,23,25.9,70.3,1036,1837,8738,Urea,192,Compost,713,16.0
+Nashik,Pomegranate,Rabi,8.22,36,26,17,32.0,57.2,478,2040,13170,17-17-17,146,FYM,1316,14.1
+Sangli,Soyabean,Rabi,7.96,17,17,15,23.7,45.3,1166,4367,9572,Zinc Sulphate,106,Vermicompost,699,7.7
+Sangli,Soyabean,Rabi,7.35,16,28,37,28.9,52.3,1056,2510,5139,Muriate of Potash,187,FYM,1759,21.2
+Sangli,Sugarcane,Kharif,6.96,20,15,12,33.6,59.0,482,2681,7139,Single Super Phosphate,120,Vermicompost,1352,12.5
+Kolhapur,Onion,Rabi,6.65,30,26,25,22.6,59.2,1141,2318,8928,Ferrous Sulphate,146,Cow Dung,635,19.0
+Satara,Sugarcane,Kharif,7.23,15,6,26,28.0,62.2,536,2226,3073,28-28-0,66,Cow Dung,1447,9.0
+Solapur,Pomegranate,Summer,8.26,24,25,21,23.2,60.2,938,926,4726,NPK,125,Vermicompost,1127,5.8
+Pune,Sugarcane,Rabi,7.19,28,17,36,27.7,62.2,1088,3542,218,14-35-14,66,Compost,1416,11.1
+Sangli,Wheat,Rabi,8.73,23,26,28,33.6,59.9,1118,4308,8099,Potash,160,Cow Dung,1945,10.6
+Ahmednagar,Wheat,Rabi,6.28,24,29,33,22.3,65.2,705,1004,12453,Ferrous Sulphate,169,FYM,1864,22.5
+Pune,Grapes,Rabi,6.98,15,26,29,26.6,54.2,710,4169,2392,Magnesium Sulphate,193,Vermicompost,841,22.3
+Solapur,Pomegranate,Kharif,6.7,38,25,12,22.7,49.9,787,4338,2204,10-26-26,168,Cow Dung,887,15.7
+Pune,Onion,Kharif,6.13,33,5,22,25.5,62.1,1124,927,1167,10-26-26,127,Vermicompost,503,5.4
+Pune,Pomegranate,Kharif,6.88,19,9,25,28.5,70.2,948,4535,14959,NPK,52,Compost,1176,9.6
+Sangli,Pomegranate,Summer,7.33,23,25,20,24.8,51.6,905,2594,14301,Calcium Nitrate,157,Vermicompost,898,17.8
+Sangli,Onion,Kharif,7.42,25,26,29,32.3,58.1,787,2226,523,Muriate of Potash,100,Cow Dung,1945,7.0
+Satara,Pomegranate,Rabi,8.74,22,11,36,27.9,63.2,692,2650,3919,NPK,163,Vermicompost,910,19.0
+Solapur,Onion,Summer,7.37,20,17,25,20.7,63.0,578,3157,7803,NPK,143,Cow Dung,712,5.2
+Sangli,Onion,Summer,7.92,34,17,29,27.3,74.0,1071,3578,12782,Single Super Phosphate,165,Cow Dung,1059,18.7
+Sangli,Onion,Rabi,7.05,12,24,11,31.8,76.3,828,2458,14885,Ferrous Sulphate,154,Cow Dung,1057,21.9
+Pune,Pomegranate,Rabi,8.34,17,27,13,28.2,67.7,923,4910,1380,12-32-16,148,FYM,1057,14.4
+Satara,Pomegranate,Rabi,8.92,37,25,36,27.0,79.5,1080,2023,14428,20-20-0,125,Compost,1571,21.6
+Nashik,Sugarcane,Rabi,7.42,12,10,37,24.8,60.6,711,3998,13341,20-20-0,130,Compost,1710,20.6
+Sangli,Pomegranate,Kharif,6.21,11,24,34,25.6,75.1,479,1288,10111,14-35-14,121,Vermicompost,1001,18.4
+Ahmednagar,Sugarcane,Summer,6.56,30,16,13,26.0,57.6,413,2384,14247,14-35-14,196,Vermicompost,1143,13.9
+Sangli,Grapes,Rabi,7.23,23,12,37,16.2,68.6,453,817,3532,DAP,192,Cow Dung,1030,10.4
+Nashik,Soyabean,Kharif,7.37,29,13,26,27.9,72.7,846,2466,862,17-17-17,160,Compost,1452,22.2
+Pune,Soyabean,Rabi,7.56,38,22,10,30.0,65.7,1165,3595,1729,Single Super Phosphate,107,Vermicompost,1286,18.0
+Solapur,Grapes,Kharif,7.37,30,15,10,23.0,53.4,464,2359,5599,20-20-0,127,Vermicompost,974,21.0
+Satara,Grapes,Rabi,7.01,31,24,39,26.9,44.9,771,4933,8734,Magnesium Sulphate,97,Compost,541,16.0
+Pune,Cotton(lint),Rabi,6.49,24,15,14,27.4,71.7,902,4256,3114,17-17-17,105,Cow Dung,1103,8.4
+Solapur,Sugarcane,Rabi,7.32,12,28,31,29.2,61.7,969,4286,10873,20-20-0,91,Vermicompost,1784,24.6
+Kolhapur,Onion,Kharif,8.48,10,28,21,26.0,62.6,495,794,1597,28-28-0,73,Cow Dung,547,8.7
+Sangli,Cotton(lint),Rabi,7.82,24,19,15,28.2,83.0,932,2632,12544,Zinc Sulphate,159,Compost,1227,23.2
+Solapur,Wheat,Kharif,7.43,29,13,15,21.4,53.6,659,4224,8380,14-35-14,101,Compost,1969,9.2
+Ahmednagar,Sugarcane,Kharif,7.82,31,7,34,21.9,73.9,984,1567,10541,Calcium Nitrate,83,Vermicompost,720,12.5
+Solapur,Pomegranate,Summer,6.7,11,21,26,27.7,56.1,647,2606,9271,17-17-17,52,Vermicompost,1439,13.8
+Kolhapur,Grapes,Kharif,6.59,27,29,35,25.1,62.9,526,4211,8753,20-20-0,117,Compost,842,23.4
+Sangli,Soyabean,Kharif,6.4,10,21,31,19.7,52.0,898,4033,3652,28-28-0,188,Cow Dung,1761,22.8
+Kolhapur,Sugarcane,Kharif,6.9,18,7,22,27.4,56.1,445,1444,11048,Muriate of Potash,190,Cow Dung,654,21.5
+Nashik,Grapes,Kharif,6.66,12,23,17,20.9,70.0,667,336,11920,12-32-16,99,FYM,1437,12.5
+Sangli,Sugarcane,Kharif,7.97,11,13,33,36.8,80.5,1039,3297,10793,Potash,131,Compost,1340,5.1
+Ahmednagar,Pomegranate,Summer,6.62,13,21,21,17.3,70.1,941,4268,7737,17-17-17,68,Vermicompost,1579,18.6
+Sangli,Sugarcane,Rabi,6.36,25,27,24,26.2,68.7,493,2652,8671,17-17-17,93,Compost,886,13.2
+Kolhapur,Pomegranate,Summer,8.55,31,22,28,21.5,95.6,1135,53,4596,14-35-14,52,Vermicompost,1393,20.1
+Satara,Sugarcane,Summer,6.64,10,27,38,29.7,71.7,715,461,13490,DAP,162,Cow Dung,1838,20.9
+Kolhapur,Wheat,Rabi,7.12,18,19,30,24.4,53.8,1011,4395,4746,14-35-14,114,Vermicompost,537,13.8
+Sangli,Soyabean,Kharif,7.36,34,5,35,30.1,44.8,470,3777,3083,Ferrous Sulphate,88,FYM,1864,20.0
+Sangli,Sugarcane,Rabi,6.09,17,14,29,29.1,69.5,992,1967,3160,10-26-26,113,Cow Dung,1350,21.8
+Solapur,Grapes,Kharif,7.99,15,12,37,21.7,48.1,848,1406,13797,14-35-14,153,FYM,1228,23.6
+Satara,Wheat,Rabi,7.51,29,14,26,23.1,53.0,766,207,7934,Ferrous Sulphate,62,Compost,730,16.6
+Pune,Cotton(lint),Summer,8.25,27,6,18,24.6,68.6,1019,1650,6904,Potash,117,Vermicompost,951,20.6
+Satara,Sugarcane,Kharif,6.46,25,23,30,25.7,77.5,1013,2934,7610,Magnesium Sulphate,119,Cow Dung,1865,14.9
+Pune,Pomegranate,Summer,7.08,17,18,27,25.2,61.6,809,3539,3050,Muriate of Potash,124,Vermicompost,1976,5.8
+Ahmednagar,Wheat,Kharif,7.03,32,12,37,28.9,50.5,490,2432,4640,DAP,50,FYM,756,8.1
+Sangli,Onion,Rabi,7.21,37,23,11,26.9,63.2,908,202,14487,Single Super Phosphate,147,Cow Dung,933,7.6
+Solapur,Cotton(lint),Rabi,5.84,39,5,20,23.5,61.7,927,1679,7518,10-26-26,153,FYM,708,8.4
+Nashik,Soyabean,Rabi,7.09,13,20,32,22.4,66.4,509,2846,6163,Urea,165,Cow Dung,1724,5.2
+Nashik,Sugarcane,Rabi,5.86,12,29,29,22.7,50.6,1174,2931,14305,Zinc Sulphate,186,Compost,636,22.2
+Kolhapur,Sugarcane,Rabi,7.29,24,28,26,27.3,55.0,1071,3852,12022,Ammonium Sulphate,162,Compost,1064,16.2
+Satara,Wheat,Summer,5.3,15,19,30,25.2,77.3,1164,2855,12716,14-35-14,152,Vermicompost,1355,12.7
+Satara,Soyabean,Summer,5.52,10,24,27,34.3,74.1,488,4130,10223,Potash,86,FYM,1917,13.2
+Nashik,Onion,Kharif,7.65,27,28,24,26.0,79.0,1006,3520,7761,Ferrous Sulphate,155,FYM,1220,14.3
+Pune,Cotton(lint),Summer,6.56,32,9,16,26.8,42.8,671,1105,3521,20-20-0,157,Cow Dung,1344,6.5
+Satara,Grapes,Kharif,6.21,20,7,25,18.8,54.4,646,2629,2090,Muriate of Potash,70,Compost,535,10.5
+Pune,Soyabean,Kharif,8.02,12,21,34,20.6,76.9,760,4198,13157,Ferrous Sulphate,197,Vermicompost,1738,22.0
+Pune,Sugarcane,Summer,7.26,39,14,38,21.5,72.1,777,2815,3956,14-35-14,178,Compost,526,19.9
+Pune,Wheat,Summer,7.7,22,9,10,23.9,69.9,605,1378,1582,Ferrous Sulphate,77,FYM,517,16.3
+Pune,Onion,Kharif,6.87,26,15,37,20.1,60.7,744,4094,2645,Urea,157,Vermicompost,1129,14.6
+Solapur,Wheat,Summer,9.14,27,10,27,21.4,57.6,1197,2442,4320,Ammonium Sulphate,58,Compost,1660,10.2
+Kolhapur,Cotton(lint),Summer,6.52,35,8,36,28.7,65.4,1159,3203,12591,12-32-16,81,Compost,1078,14.4
+Kolhapur,Pomegranate,Summer,8.4,35,11,31,22.6,59.6,854,50,11107,Single Super Phosphate,115,Cow Dung,1402,17.0
+Solapur,Pomegranate,Rabi,6.95,23,23,17,25.8,71.3,466,216,742,17-17-17,149,Cow Dung,1474,19.3
+Nashik,Soyabean,Rabi,5.68,34,11,16,28.4,65.4,957,3304,13432,Urea,70,FYM,1553,8.3
+Kolhapur,Wheat,Kharif,7.39,16,18,34,29.8,53.3,442,1935,12977,12-32-16,131,Compost,1596,21.3
+Ahmednagar,Grapes,Summer,7.25,16,21,39,27.2,72.6,628,4418,4018,17-17-17,73,Cow Dung,622,11.9
+Solapur,Grapes,Kharif,6.16,23,27,11,27.4,80.1,843,949,1686,Calcium Nitrate,160,Compost,1456,15.1
+Satara,Pomegranate,Summer,6.26,35,21,21,29.9,80.9,633,2298,2509,Ferrous Sulphate,141,Vermicompost,1500,17.2
+Ahmednagar,Pomegranate,Rabi,6.98,33,17,25,27.7,73.1,598,3313,6604,28-28-0,61,Compost,1486,14.8
+Solapur,Wheat,Summer,7.28,24,5,18,30.1,73.2,896,3462,12141,Muriate of Potash,188,Compost,1751,16.4
+Kolhapur,Sugarcane,Summer,5.02,21,6,29,17.4,51.1,431,3627,13527,Calcium Nitrate,72,FYM,837,7.2
+Satara,Wheat,Summer,7.84,21,22,20,25.7,56.9,663,2237,154,Muriate of Potash,141,Vermicompost,1490,13.6
+Satara,Onion,Rabi,6.6,17,8,24,26.2,63.0,512,1269,14727,DAP,172,Vermicompost,772,10.6
+Pune,Soyabean,Rabi,5.93,25,17,12,25.5,72.1,858,3182,13462,28-28-0,83,Cow Dung,1960,6.7
+Nashik,Cotton(lint),Rabi,7.75,18,5,32,26.5,57.8,675,409,941,DAP,174,Vermicompost,1401,8.8
+Pune,Grapes,Kharif,6.98,11,8,30,24.4,61.3,545,2089,7028,Single Super Phosphate,106,FYM,538,17.0
+Solapur,Wheat,Summer,7.97,23,6,22,29.2,71.7,756,3987,14689,Ammonium Sulphate,52,Cow Dung,1181,8.9
+Pune,Onion,Rabi,7.35,33,8,30,23.9,66.6,405,3204,4687,17-17-17,55,Compost,925,8.6
+Ahmednagar,Pomegranate,Kharif,7.0,33,20,37,25.1,69.0,739,383,9276,Potash,97,Vermicompost,814,16.1
+Kolhapur,Grapes,Rabi,6.88,38,8,22,31.8,55.7,893,780,10912,Urea,151,Compost,1113,23.1
+Ahmednagar,Grapes,Summer,7.39,25,29,11,31.2,61.2,507,1547,3006,14-35-14,169,Cow Dung,1254,20.8
+Kolhapur,Cotton(lint),Kharif,6.67,14,13,15,26.6,59.4,1171,1467,5188,Calcium Nitrate,62,Vermicompost,656,23.1
+Ahmednagar,Grapes,Rabi,6.32,14,21,15,23.5,65.0,470,3813,10286,Ferrous Sulphate,85,Cow Dung,1371,16.7
+Satara,Onion,Rabi,7.49,29,25,21,19.5,59.8,739,1793,10224,Zinc Sulphate,119,Cow Dung,1276,13.2
+Kolhapur,Grapes,Kharif,6.88,39,27,13,25.5,58.2,1073,4166,5156,Ferrous Sulphate,82,Vermicompost,756,19.6
+Kolhapur,Grapes,Kharif,7.03,30,24,14,28.0,66.5,499,2023,6082,Magnesium Sulphate,154,Vermicompost,1354,10.2
+Ahmednagar,Wheat,Kharif,7.87,27,25,32,23.1,90.2,726,928,2372,28-28-0,106,Cow Dung,1134,6.6
+Sangli,Wheat,Kharif,6.91,27,6,39,26.0,72.0,432,4322,6241,12-32-16,104,FYM,955,11.9
+Satara,Pomegranate,Kharif,7.01,14,7,17,24.6,43.6,542,2934,8115,20-20-0,156,Vermicompost,546,11.0
+Solapur,Soyabean,Rabi,6.52,20,27,15,19.1,69.2,643,3057,8394,Magnesium Sulphate,190,Cow Dung,1855,18.5
+Satara,Sugarcane,Kharif,7.34,22,19,30,26.5,58.8,1135,2645,9261,14-35-14,100,Compost,509,16.0
+Solapur,Onion,Kharif,7.28,12,11,37,27.7,53.7,1125,2347,1171,12-32-16,141,Compost,643,7.8
+Sangli,Sugarcane,Summer,7.72,26,8,12,26.6,73.4,1031,710,836,17-17-17,102,Vermicompost,1954,23.2
+Ahmednagar,Sugarcane,Rabi,6.54,34,16,32,32.4,65.9,1079,3194,9657,17-17-17,85,Vermicompost,1675,16.9
+Ahmednagar,Grapes,Summer,6.63,27,5,17,24.7,94.8,616,3212,6476,Single Super Phosphate,182,Compost,986,14.2
+Satara,Pomegranate,Rabi,7.63,23,21,28,24.4,63.6,833,4271,7849,Urea,168,Cow Dung,1659,23.7
+Ahmednagar,Cotton(lint),Rabi,7.2,21,8,30,34.7,62.3,1128,4035,3730,10-26-26,74,Cow Dung,1549,6.9
+Nashik,Cotton(lint),Rabi,6.28,23,8,20,21.0,79.4,453,1319,327,Potash,130,Cow Dung,1530,20.8
+Nashik,Grapes,Kharif,8.05,35,26,27,23.5,65.3,1119,4756,6765,Ammonium Sulphate,86,FYM,1090,12.3
+Solapur,Pomegranate,Summer,5.64,27,27,19,27.4,52.3,991,1344,14108,14-35-14,68,Vermicompost,1538,18.9
+Sangli,Onion,Rabi,7.63,39,29,35,30.5,54.4,550,1059,5811,12-32-16,84,FYM,1955,23.6
+Kolhapur,Sugarcane,Rabi,5.99,29,13,37,29.7,61.1,454,2141,6256,Urea,156,FYM,1398,15.4
+Nashik,Soyabean,Rabi,8.51,11,25,29,21.8,72.9,916,1807,3670,12-32-16,103,FYM,1923,5.5
+Solapur,Pomegranate,Summer,5.76,16,14,21,32.5,80.3,847,2014,8736,Potash,55,FYM,706,5.6
+Ahmednagar,Sugarcane,Rabi,7.92,24,23,29,27.9,74.6,434,4693,8093,10-26-26,178,Cow Dung,1409,11.6
+Sangli,Cotton(lint),Summer,6.93,37,23,37,22.7,71.8,518,1241,14775,Magnesium Sulphate,83,Vermicompost,1739,20.6
+Solapur,Sugarcane,Summer,6.71,19,19,38,23.1,78.2,596,1103,13735,10-26-26,105,Vermicompost,1982,10.8
+Solapur,Wheat,Kharif,7.15,24,26,17,26.3,72.5,965,2891,1719,Muriate of Potash,146,FYM,758,11.7
+Nashik,Wheat,Rabi,7.51,26,21,28,34.6,54.2,1170,2454,12985,Ammonium Sulphate,75,Vermicompost,1852,20.7
+Pune,Soyabean,Rabi,6.28,20,11,30,26.8,62.4,1173,3612,2304,Calcium Nitrate,140,Compost,953,7.3
+Sangli,Onion,Summer,6.35,11,7,25,34.6,58.8,913,3754,2803,14-35-14,87,Cow Dung,1298,21.9
+Satara,Sugarcane,Summer,7.52,36,9,36,29.5,80.1,993,1872,11342,10-26-26,108,Vermicompost,874,10.3
+Solapur,Wheat,Kharif,5.63,30,20,30,21.0,53.5,821,1321,7842,Potash,176,Cow Dung,963,6.0
+Nashik,Onion,Rabi,6.53,27,27,27,31.6,53.8,916,1769,11794,Muriate of Potash,73,Compost,574,7.3
+Satara,Pomegranate,Summer,9.43,34,11,18,22.2,67.0,1085,302,11918,17-17-17,160,Cow Dung,741,24.1
+Sangli,Pomegranate,Rabi,6.23,13,20,13,23.5,88.1,538,2818,7674,Ferrous Sulphate,70,Compost,1540,14.0
+Nashik,Wheat,Rabi,7.92,18,13,18,27.1,73.8,1104,1609,9473,Urea,109,FYM,1782,10.1
+Satara,Onion,Rabi,6.53,36,5,34,25.9,77.5,1049,786,11548,17-17-17,139,Vermicompost,622,15.4
+Kolhapur,Onion,Summer,7.41,37,7,11,29.6,51.7,1027,1978,897,Muriate of Potash,197,FYM,1834,18.6
+Solapur,Wheat,Rabi,7.52,26,29,18,28.0,73.0,443,2240,14926,Ammonium Sulphate,55,Vermicompost,610,11.4
+Kolhapur,Grapes,Summer,7.9,26,12,18,25.5,51.7,618,1052,9126,17-17-17,59,FYM,1779,19.5
+Pune,Cotton(lint),Kharif,6.84,26,22,27,32.8,73.8,967,3035,3099,Urea,189,Compost,733,10.0
+Ahmednagar,Onion,Kharif,8.59,39,28,20,24.1,46.1,1153,1972,10324,Ammonium Sulphate,146,Vermicompost,1467,7.2
+Sangli,Pomegranate,Summer,6.53,25,28,22,22.0,60.9,657,3802,12744,12-32-16,199,FYM,996,16.0
+Ahmednagar,Grapes,Rabi,7.19,29,22,15,27.9,40.4,912,4187,2864,14-35-14,129,Cow Dung,1563,8.0
+Ahmednagar,Sugarcane,Kharif,7.2,34,28,18,25.9,54.4,776,3752,10701,DAP,66,Cow Dung,1645,23.8
+Satara,Grapes,Kharif,6.1,17,23,25,27.0,47.9,688,3242,3784,Calcium Nitrate,187,FYM,1973,5.0
+Pune,Wheat,Summer,6.77,32,11,13,29.0,72.8,869,3884,11567,Magnesium Sulphate,189,Compost,1226,20.1
+Sangli,Grapes,Summer,7.13,24,29,11,25.3,66.1,502,4488,8299,Ammonium Sulphate,132,FYM,591,10.6
+Kolhapur,Cotton(lint),Summer,6.65,10,24,16,33.4,59.4,548,4477,10811,Magnesium Sulphate,89,Cow Dung,1884,21.9
+Ahmednagar,Wheat,Summer,8.95,28,10,24,27.1,66.4,483,3577,10511,17-17-17,123,Vermicompost,1646,6.2
+Satara,Soyabean,Summer,6.33,34,29,34,24.2,55.0,425,390,6339,14-35-14,123,Vermicompost,836,24.1
+Ahmednagar,Sugarcane,Summer,7.94,24,15,15,28.4,68.9,574,2438,3974,14-35-14,99,FYM,1012,7.0
+Nashik,Pomegranate,Summer,7.69,18,9,20,25.7,64.1,1134,3537,13717,DAP,59,Vermicompost,1102,20.8
+Kolhapur,Soyabean,Rabi,6.99,14,16,36,26.5,92.4,1040,1750,12020,28-28-0,152,Cow Dung,927,15.3
+Ahmednagar,Grapes,Rabi,6.31,25,5,39,21.6,84.6,821,1283,3429,DAP,143,Vermicompost,1956,13.6
+Nashik,Onion,Rabi,6.39,37,23,29,22.0,76.3,1053,2620,14909,20-20-0,181,FYM,506,10.6
+Nashik,Grapes,Rabi,6.59,22,15,26,30.2,68.5,745,2348,6169,14-35-14,178,FYM,619,21.8
+Satara,Pomegranate,Kharif,5.57,25,19,13,21.1,70.0,701,187,11663,14-35-14,92,FYM,886,9.0
+Satara,Pomegranate,Rabi,6.2,31,29,28,25.5,79.9,697,2848,5684,DAP,132,Cow Dung,1873,19.4
+Nashik,Onion,Kharif,5.81,20,20,16,27.3,68.5,534,2980,8905,14-35-14,182,Compost,1140,13.9
+Pune,Soyabean,Kharif,8.08,22,7,20,31.7,69.2,454,3970,8980,Calcium Nitrate,153,Vermicompost,1621,25.0
+Ahmednagar,Soyabean,Kharif,7.49,15,15,22,24.1,58.1,455,4232,9189,Zinc Sulphate,83,FYM,1566,17.2
+Nashik,Onion,Summer,7.63,35,15,36,29.0,56.8,773,1883,13739,10-26-26,73,Compost,682,7.1
+Nashik,Cotton(lint),Kharif,7.47,29,14,35,25.5,63.7,987,2189,8401,20-20-0,191,FYM,1196,13.4
+Satara,Sugarcane,Kharif,7.13,26,6,30,17.3,33.6,738,257,13097,12-32-16,90,FYM,1064,6.3
+Ahmednagar,Wheat,Kharif,8.17,14,24,37,26.2,64.7,856,2283,11304,Single Super Phosphate,62,Cow Dung,1758,10.7
+Sangli,Soyabean,Summer,6.51,38,9,12,25.7,62.1,754,1900,11210,17-17-17,181,Cow Dung,945,11.9
+Kolhapur,Sugarcane,Rabi,7.09,26,27,23,27.7,75.5,531,1737,1260,17-17-17,77,Compost,699,22.1
+Satara,Wheat,Rabi,7.6,10,27,11,23.4,79.7,892,2253,12273,Zinc Sulphate,132,FYM,1447,21.8
+Ahmednagar,Grapes,Kharif,5.94,36,29,38,23.9,95.9,953,2258,3710,Calcium Nitrate,178,Vermicompost,1012,5.2
+Ahmednagar,Wheat,Kharif,9.48,14,12,27,30.8,72.0,509,900,4844,Magnesium Sulphate,156,Vermicompost,1489,15.6
+Solapur,Soyabean,Rabi,7.02,14,17,14,24.7,66.8,981,2253,7431,28-28-0,62,Vermicompost,712,9.5
+Pune,Cotton(lint),Rabi,7.11,16,19,22,18.3,58.2,1195,3740,14784,12-32-16,163,Compost,1901,11.4
+Kolhapur,Cotton(lint),Rabi,8.01,25,6,22,28.0,52.4,525,3405,2103,14-35-14,155,Cow Dung,1045,5.4
+Satara,Sugarcane,Rabi,7.73,27,16,33,29.5,76.0,695,2659,14898,17-17-17,54,Compost,985,20.0
+Satara,Grapes,Kharif,7.03,15,28,33,29.4,64.7,578,273,8135,10-26-26,146,Cow Dung,1884,24.0
+Sangli,Sugarcane,Kharif,7.1,11,12,23,23.5,70.1,596,3824,14054,12-32-16,63,Vermicompost,667,9.4
+Solapur,Onion,Kharif,5.8,22,25,21,26.0,65.2,1172,1461,1627,Potash,129,Vermicompost,1389,11.8
+Solapur,Cotton(lint),Rabi,6.55,19,23,30,28.1,65.5,500,4442,7418,Zinc Sulphate,169,Cow Dung,1430,9.1
+Pune,Sugarcane,Summer,7.41,30,29,22,29.9,67.6,972,372,10205,Muriate of Potash,84,Vermicompost,1927,23.6
+Solapur,Onion,Rabi,7.36,29,27,27,28.0,70.1,582,1561,12633,20-20-0,52,Compost,1327,5.2
+Pune,Grapes,Rabi,7.98,20,5,22,29.1,76.3,408,2136,11473,Muriate of Potash,53,Cow Dung,636,16.7
+Ahmednagar,Pomegranate,Summer,6.9,35,12,13,23.1,50.2,812,4650,13996,Urea,184,Vermicompost,1756,22.4
+Ahmednagar,Wheat,Summer,5.89,30,14,32,16.8,72.0,1117,2337,13185,Potash,180,FYM,614,8.7
+Satara,Sugarcane,Rabi,7.85,11,17,39,30.2,49.5,965,736,11638,10-26-26,130,Vermicompost,1775,16.8
+Sangli,Onion,Summer,8.15,17,9,31,22.2,73.4,1091,2067,7334,Ammonium Sulphate,160,FYM,1812,6.0
+Satara,Cotton(lint),Summer,7.72,33,26,19,25.3,68.8,503,1518,5269,DAP,108,Vermicompost,1572,21.3
+Solapur,Wheat,Summer,6.87,31,13,32,29.2,64.1,525,3973,11155,Magnesium Sulphate,123,FYM,1975,10.5
+Nashik,Sugarcane,Rabi,7.84,28,14,14,26.1,64.5,945,4885,4710,17-17-17,178,Vermicompost,1015,24.8
+Ahmednagar,Cotton(lint),Rabi,9.74,29,18,27,28.8,66.6,1076,1046,14661,Magnesium Sulphate,108,FYM,1187,23.4
+Nashik,Pomegranate,Summer,7.09,26,28,17,35.8,78.1,669,2584,6821,Magnesium Sulphate,167,Cow Dung,1519,19.7
+Solapur,Wheat,Kharif,5.95,25,15,23,28.2,77.0,865,2862,8797,Ferrous Sulphate,187,Cow Dung,1795,14.9
+Sangli,Soyabean,Summer,6.53,34,18,37,23.1,75.6,517,672,4350,NPK,152,FYM,1954,20.3
+Satara,Cotton(lint),Summer,7.5,19,7,11,20.2,48.8,491,3874,10298,Urea,180,Vermicompost,1549,7.6
+Ahmednagar,Soyabean,Rabi,5.72,14,25,37,28.7,71.9,1011,2833,14285,NPK,184,Compost,1593,11.2
+Sangli,Grapes,Kharif,7.14,23,20,17,26.3,36.2,884,4443,13891,Potash,58,Compost,792,5.5
+Satara,Sugarcane,Summer,7.3,33,24,25,20.5,39.4,486,1125,12498,17-17-17,148,Compost,1929,17.9
+Satara,Pomegranate,Kharif,8.23,28,21,16,30.7,78.5,633,353,6726,20-20-0,190,Compost,1757,21.1
+Nashik,Onion,Rabi,8.05,13,9,12,28.9,47.6,523,713,2955,12-32-16,163,FYM,730,23.9
+Kolhapur,Sugarcane,Kharif,7.69,29,11,38,26.0,62.9,602,2996,4064,Ferrous Sulphate,111,Cow Dung,1786,18.7
+Solapur,Cotton(lint),Rabi,5.27,25,21,13,34.7,81.9,431,4044,8035,Magnesium Sulphate,111,Cow Dung,1437,19.6
+Pune,Soyabean,Summer,7.74,33,24,38,30.1,72.0,756,2042,14709,Single Super Phosphate,59,Compost,1644,22.9
+Ahmednagar,Soyabean,Rabi,7.56,24,26,16,22.0,69.4,862,3545,14590,28-28-0,136,Cow Dung,1986,23.7
+Pune,Wheat,Kharif,7.2,37,15,13,30.7,64.3,950,2744,1774,Magnesium Sulphate,60,FYM,1017,14.8
+Sangli,Sugarcane,Kharif,5.62,18,16,18,27.0,66.5,493,4354,9482,Potash,111,Compost,1547,7.2
+Pune,Sugarcane,Kharif,6.38,12,29,32,33.6,57.5,921,3248,13430,10-26-26,126,FYM,1205,14.3
+Nashik,Cotton(lint),Summer,6.07,32,28,26,29.8,59.2,1126,568,2492,Ferrous Sulphate,153,FYM,876,16.1
+Kolhapur,Soyabean,Kharif,5.39,18,6,26,27.9,66.0,807,4483,6978,Calcium Nitrate,105,Vermicompost,936,17.6
+Ahmednagar,Cotton(lint),Kharif,7.0,27,23,29,27.7,67.8,499,1919,2021,Ferrous Sulphate,159,FYM,1352,24.8
+Solapur,Cotton(lint),Kharif,6.36,13,9,23,21.2,63.1,643,3860,12681,Ammonium Sulphate,98,Vermicompost,1469,23.4
+Satara,Grapes,Rabi,9.1,28,15,23,24.0,38.2,457,962,10984,28-28-0,65,Compost,998,12.9
+Satara,Soyabean,Kharif,6.86,33,27,38,26.8,83.8,756,3984,13873,Calcium Nitrate,122,FYM,1697,7.3
+Solapur,Cotton(lint),Rabi,8.04,13,23,34,20.5,76.2,890,4952,4533,28-28-0,165,Cow Dung,1099,9.3
+Nashik,Soyabean,Kharif,5.74,18,11,22,27.9,62.6,719,3238,1927,Potash,142,Compost,1277,8.5
+Ahmednagar,Cotton(lint),Rabi,6.58,10,25,13,23.0,76.6,418,1365,10791,28-28-0,186,FYM,1833,12.1
+Pune,Onion,Rabi,7.08,10,26,22,24.4,60.7,756,3278,14779,Single Super Phosphate,82,FYM,569,22.5
+Solapur,Cotton(lint),Summer,6.27,29,10,30,28.8,68.8,516,621,816,Ammonium Sulphate,137,Cow Dung,704,13.8
+Satara,Cotton(lint),Summer,6.66,28,15,26,23.8,41.9,535,3305,730,Zinc Sulphate,88,Vermicompost,840,16.3
+Pune,Pomegranate,Rabi,6.83,12,18,24,27.9,68.1,695,2521,4960,20-20-0,163,FYM,1555,8.6
+Nashik,Onion,Rabi,6.81,19,8,39,26.6,61.6,924,147,8376,17-17-17,126,FYM,1566,14.9
+Satara,Sugarcane,Summer,8.48,21,12,27,21.8,67.6,500,4083,3868,DAP,136,Cow Dung,617,22.5
+Sangli,Soyabean,Rabi,7.3,27,13,20,29.5,85.5,779,1689,9028,Muriate of Potash,163,Compost,1388,20.5
+Kolhapur,Pomegranate,Summer,7.38,23,6,13,29.7,64.8,554,4892,2807,Zinc Sulphate,105,FYM,514,6.6
+Pune,Wheat,Summer,7.43,19,29,37,29.9,59.5,993,4077,13800,14-35-14,187,Vermicompost,1845,22.2
+Solapur,Onion,Kharif,7.49,19,15,29,33.6,59.6,999,310,8518,Potash,90,Vermicompost,1410,10.5
+Ahmednagar,Pomegranate,Kharif,6.93,27,24,20,24.4,48.0,504,985,3457,28-28-0,153,Cow Dung,1126,18.3
+Pune,Sugarcane,Summer,6.74,33,26,19,18.2,69.9,1041,1847,9599,Muriate of Potash,148,Vermicompost,1860,7.9
+Pune,Cotton(lint),Summer,7.13,10,11,31,23.4,71.4,1183,381,7960,12-32-16,108,FYM,1189,18.5
+Pune,Grapes,Rabi,7.93,39,8,22,29.8,65.8,925,4260,4304,12-32-16,171,Vermicompost,1273,5.7
+Solapur,Sugarcane,Summer,7.9,24,28,31,25.7,76.0,527,317,4330,Muriate of Potash,169,FYM,1904,17.0
+Nashik,Onion,Summer,6.81,17,18,17,20.4,76.2,800,2109,5133,Ammonium Sulphate,90,Cow Dung,1412,17.9
+Nashik,Grapes,Kharif,7.61,35,28,37,19.3,65.8,971,122,4486,Muriate of Potash,115,Vermicompost,619,9.9
+Ahmednagar,Cotton(lint),Summer,6.84,12,5,22,31.7,72.0,1138,2971,12250,Muriate of Potash,111,FYM,525,23.7
+Nashik,Sugarcane,Rabi,7.03,27,28,18,28.4,91.1,928,2503,8257,Calcium Nitrate,89,Compost,563,5.9
+Solapur,Wheat,Summer,6.62,18,16,39,24.0,55.1,956,3938,14213,20-20-0,89,FYM,959,22.8
+Ahmednagar,Soyabean,Kharif,6.85,25,23,10,33.5,74.3,949,227,14124,DAP,151,FYM,813,12.6
+Ahmednagar,Soyabean,Kharif,8.07,30,9,10,36.6,66.0,523,2049,7775,Calcium Nitrate,64,Cow Dung,1304,19.3
+Nashik,Onion,Kharif,7.07,24,12,24,30.1,77.5,759,821,9944,Single Super Phosphate,173,FYM,1739,18.0
+Satara,Pomegranate,Kharif,7.11,39,15,31,29.0,55.5,463,995,1967,20-20-0,180,Cow Dung,1979,8.4
+Nashik,Cotton(lint),Summer,5.84,14,26,13,28.1,67.4,1164,4545,7065,17-17-17,73,FYM,1485,11.4
+Satara,Cotton(lint),Rabi,6.75,22,8,36,29.4,56.8,1173,319,7296,17-17-17,97,FYM,1235,15.6
+Sangli,Soyabean,Rabi,6.81,31,19,29,33.8,43.8,1023,1905,14829,NPK,97,FYM,1388,21.9
+Nashik,Sugarcane,Rabi,6.34,29,24,10,22.1,81.9,501,1705,126,14-35-14,96,Cow Dung,1481,24.1
+Sangli,Cotton(lint),Summer,7.02,16,16,34,24.6,59.8,960,3802,6256,17-17-17,154,FYM,1078,5.4
+Nashik,Wheat,Summer,6.66,25,24,21,25.8,54.9,676,2583,12941,10-26-26,162,Cow Dung,1996,12.1
+Sangli,Wheat,Summer,7.06,16,26,20,28.3,58.1,626,4204,9224,Single Super Phosphate,57,Compost,1882,18.4
+Kolhapur,Cotton(lint),Rabi,7.1,36,27,28,32.3,86.9,422,2739,6688,10-26-26,67,Cow Dung,1649,15.6
+Sangli,Cotton(lint),Summer,6.24,34,25,24,27.7,80.7,1096,4411,14659,Ammonium Sulphate,157,Compost,1471,23.9
+Satara,Soyabean,Summer,6.68,31,14,30,28.5,62.4,463,2172,14456,12-32-16,133,Cow Dung,1360,5.3
+Pune,Onion,Kharif,7.06,25,28,19,28.7,75.3,556,3211,11750,Calcium Nitrate,114,Cow Dung,1206,13.8
+Ahmednagar,Soyabean,Kharif,7.95,22,20,10,26.1,52.1,1194,554,5867,17-17-17,158,FYM,1610,18.4
+Sangli,Onion,Rabi,7.21,26,27,33,24.3,71.3,789,2454,13737,Ferrous Sulphate,95,Vermicompost,1866,9.4
+Pune,Wheat,Kharif,6.47,18,12,12,26.3,59.8,548,2251,14144,NPK,115,Vermicompost,894,19.5
+Solapur,Onion,Kharif,7.32,21,24,23,23.4,70.2,762,3339,566,Potash,129,FYM,983,6.6
+Kolhapur,Soyabean,Kharif,8.37,22,12,24,23.5,48.5,1080,4631,7789,Muriate of Potash,199,Compost,1165,14.0
+Kolhapur,Cotton(lint),Summer,7.73,35,10,10,27.5,57.9,863,1203,13636,Calcium Nitrate,189,FYM,955,18.5
+Solapur,Onion,Kharif,7.44,18,7,19,24.1,67.2,1044,4211,2800,NPK,196,Vermicompost,1999,10.3
+Solapur,Soyabean,Kharif,7.58,14,12,31,33.4,67.1,798,2477,9790,Ammonium Sulphate,199,Cow Dung,709,6.5
+Solapur,Wheat,Kharif,8.15,16,27,10,26.6,47.4,804,1386,8909,17-17-17,155,FYM,1024,24.1
+Satara,Grapes,Summer,7.86,10,14,24,31.4,53.3,531,456,3877,Potash,175,Compost,1175,23.3
+Solapur,Onion,Rabi,7.45,13,9,12,21.0,70.1,596,3528,12845,Ferrous Sulphate,194,FYM,1501,23.5
+Satara,Wheat,Summer,7.85,37,15,30,21.1,68.7,1046,4094,2787,DAP,62,Vermicompost,1395,24.6
+Sangli,Wheat,Summer,6.13,35,8,29,25.6,72.9,434,326,5432,Zinc Sulphate,77,Cow Dung,1503,8.7
+Nashik,Sugarcane,Kharif,5.8,13,21,32,29.7,67.3,819,3530,6906,17-17-17,172,Vermicompost,806,8.2
+Solapur,Grapes,Rabi,7.13,25,7,31,24.0,52.4,776,2411,5156,20-20-0,116,Vermicompost,1599,5.7
+Solapur,Onion,Kharif,7.05,14,22,21,25.6,60.8,798,2646,9796,Ferrous Sulphate,54,Vermicompost,1545,22.8
+Kolhapur,Soyabean,Kharif,6.56,31,12,28,30.0,71.4,619,2018,12259,28-28-0,149,Vermicompost,559,20.1
+Pune,Onion,Rabi,7.66,13,28,25,24.4,53.0,1096,510,279,Ammonium Sulphate,192,Cow Dung,885,17.7
+Nashik,Onion,Rabi,5.51,15,16,36,23.0,51.5,916,2496,8096,NPK,130,Vermicompost,555,23.6
+Kolhapur,Grapes,Summer,6.57,35,25,17,28.8,61.4,982,3789,10877,Ammonium Sulphate,93,Compost,667,16.5
+Sangli,Pomegranate,Rabi,6.61,32,20,33,20.8,68.3,741,1632,14962,28-28-0,168,Compost,1935,7.6
+Solapur,Wheat,Summer,5.69,12,18,23,24.5,42.9,1152,3567,10361,28-28-0,95,Vermicompost,1216,8.5
+Kolhapur,Wheat,Summer,8.2,34,25,27,26.5,62.1,815,4852,5564,20-20-0,117,Compost,1364,7.6
+Satara,Wheat,Kharif,5.91,17,20,32,28.1,71.2,855,4248,6820,12-32-16,177,Vermicompost,1714,11.2
+Pune,Wheat,Kharif,6.53,26,8,39,29.3,73.6,696,2425,13150,Magnesium Sulphate,98,Cow Dung,981,12.6
+Pune,Grapes,Kharif,7.73,38,5,10,29.9,53.0,730,2789,1021,12-32-16,151,Cow Dung,1939,20.9
+Satara,Soyabean,Rabi,7.52,27,5,11,24.8,69.5,1104,1021,3192,Magnesium Sulphate,126,Compost,839,8.8
+Solapur,Cotton(lint),Rabi,6.11,27,26,33,29.8,76.9,1079,1375,13132,20-20-0,69,Compost,1295,19.5
+Solapur,Sugarcane,Summer,7.55,35,19,21,28.0,72.3,738,202,5627,Calcium Nitrate,160,Vermicompost,1391,14.8
+Nashik,Pomegranate,Summer,7.23,34,24,26,28.9,60.1,1147,3658,9802,Urea,195,FYM,1275,25.0
+Satara,Pomegranate,Summer,8.87,21,24,11,23.5,36.4,697,4010,11891,Calcium Nitrate,164,Vermicompost,1782,20.5
+Solapur,Wheat,Rabi,7.32,34,7,37,28.7,67.5,1159,3156,13827,Calcium Nitrate,61,Vermicompost,1873,24.4
+Pune,Wheat,Summer,6.89,34,18,26,25.4,83.9,1076,3136,13683,Single Super Phosphate,128,Cow Dung,1100,11.8
+Solapur,Sugarcane,Summer,6.31,10,13,30,26.2,74.9,711,779,11568,Single Super Phosphate,168,FYM,936,7.5
+Sangli,Wheat,Rabi,6.4,32,23,16,26.7,74.1,982,4017,7565,20-20-0,85,FYM,1745,15.1
+Solapur,Cotton(lint),Kharif,6.34,21,12,15,34.5,67.0,1142,4219,2819,10-26-26,57,Vermicompost,1936,7.5
+Nashik,Pomegranate,Rabi,8.1,20,6,15,22.3,75.8,454,4052,8213,12-32-16,77,Cow Dung,1873,14.8
+Ahmednagar,Onion,Summer,7.01,22,8,31,30.8,68.6,1093,2382,13024,14-35-14,165,Compost,1582,10.4
+Kolhapur,Sugarcane,Kharif,7.45,12,5,17,31.7,44.0,933,1623,9315,Calcium Nitrate,135,Cow Dung,651,14.8
+Ahmednagar,Pomegranate,Rabi,8.21,36,15,14,29.3,75.7,1194,3318,251,12-32-16,98,Compost,1433,24.0
+Sangli,Soyabean,Kharif,5.11,34,9,24,23.9,54.7,504,4425,8304,Potash,129,Cow Dung,1039,10.8
+Ahmednagar,Pomegranate,Kharif,8.02,17,6,35,32.8,65.8,574,4932,9006,Magnesium Sulphate,54,FYM,724,24.9
+Solapur,Sugarcane,Summer,7.04,12,17,16,24.7,73.9,693,735,11442,Muriate of Potash,95,Cow Dung,1841,9.6
+Nashik,Cotton(lint),Rabi,7.35,26,21,12,28.7,56.0,950,3938,3725,NPK,147,Vermicompost,1062,9.2
+Pune,Grapes,Summer,6.34,34,21,34,26.5,53.2,774,1629,8540,10-26-26,151,Compost,1802,15.9
+Pune,Soyabean,Rabi,6.4,22,22,19,24.5,70.7,849,1018,1244,Calcium Nitrate,51,Cow Dung,1057,21.8
+Sangli,Onion,Rabi,7.39,19,25,12,28.2,51.6,844,3787,4582,12-32-16,74,Cow Dung,1997,20.0
+Ahmednagar,Wheat,Rabi,8.91,26,13,39,33.5,62.7,459,2083,4634,12-32-16,50,Compost,1117,19.5
+Nashik,Sugarcane,Kharif,7.8,12,10,23,27.0,78.5,791,817,11635,14-35-14,117,Cow Dung,523,10.7
+Kolhapur,Soyabean,Kharif,8.01,22,24,31,33.9,84.5,789,695,14735,Magnesium Sulphate,118,Compost,867,5.5
+Solapur,Sugarcane,Summer,6.85,31,7,12,25.3,43.6,611,4171,820,Single Super Phosphate,65,FYM,1498,8.2
+Ahmednagar,Onion,Rabi,6.52,15,12,10,26.3,62.4,1066,1129,4668,Ferrous Sulphate,67,Compost,834,12.0
+Ahmednagar,Sugarcane,Rabi,6.38,23,7,10,21.1,80.2,1084,686,3329,28-28-0,156,Compost,1956,24.4
+Kolhapur,Pomegranate,Kharif,6.61,36,5,28,23.8,60.2,934,4375,1106,10-26-26,66,FYM,502,23.4
+Satara,Pomegranate,Rabi,5.36,19,24,13,25.1,74.5,639,2150,4828,Potash,174,Cow Dung,1507,9.0
+Solapur,Soyabean,Summer,6.42,29,17,39,24.7,75.4,887,150,11590,17-17-17,131,Cow Dung,1781,19.5
+Sangli,Cotton(lint),Rabi,6.55,25,25,11,22.2,57.7,1120,3967,10760,Muriate of Potash,53,FYM,762,16.6
+Solapur,Grapes,Rabi,6.86,27,9,34,23.0,70.1,521,4949,7199,Potash,164,Vermicompost,620,6.0
+Nashik,Soyabean,Kharif,7.11,22,20,20,24.9,70.9,652,918,7216,17-17-17,144,Compost,520,12.4
+Sangli,Sugarcane,Rabi,7.29,19,25,33,30.7,75.9,540,4147,12411,12-32-16,144,Cow Dung,1404,14.7
+Kolhapur,Onion,Summer,6.99,15,28,21,20.0,45.5,851,71,3913,Calcium Nitrate,186,Cow Dung,639,18.4
+Nashik,Pomegranate,Summer,6.53,19,20,22,17.7,80.5,552,2675,637,Potash,80,Compost,1812,10.9
+Pune,Wheat,Summer,5.43,14,28,25,19.0,73.2,1125,1953,11116,Ammonium Sulphate,182,Compost,705,23.7
+Pune,Wheat,Summer,6.54,38,16,25,22.6,51.4,707,2626,2785,17-17-17,65,Compost,542,14.0
+Solapur,Onion,Kharif,6.22,15,17,28,28.5,63.5,959,4159,2080,Urea,91,Vermicompost,1349,10.0
+Nashik,Sugarcane,Rabi,7.37,16,8,32,24.6,75.1,716,4664,6006,Calcium Nitrate,79,FYM,1641,11.3
+Sangli,Grapes,Kharif,7.73,20,13,29,24.5,52.1,928,3343,639,Calcium Nitrate,75,Vermicompost,1528,20.0
+Sangli,Onion,Summer,7.75,25,20,30,24.4,53.9,695,1985,7146,Urea,80,Vermicompost,706,17.8
+Pune,Sugarcane,Rabi,7.61,34,5,29,18.5,65.2,744,665,12176,Urea,99,Compost,1134,19.8
+Pune,Soyabean,Kharif,6.89,21,9,18,29.4,59.8,980,2500,12345,NPK,192,FYM,844,10.8
+Kolhapur,Grapes,Rabi,6.58,21,25,25,31.2,68.0,996,3634,11491,28-28-0,101,Cow Dung,1665,11.5
+Nashik,Cotton(lint),Summer,6.4,39,9,36,24.7,74.9,681,336,7361,NPK,87,Compost,871,12.9
+Sangli,Sugarcane,Summer,5.79,32,28,16,26.3,68.3,607,3368,14114,Zinc Sulphate,69,FYM,1755,8.8
+Kolhapur,Wheat,Rabi,7.79,29,29,22,26.5,64.9,951,1973,12808,Ferrous Sulphate,148,Cow Dung,1687,18.8
+Sangli,Wheat,Rabi,6.86,35,23,13,21.7,74.9,495,4971,8775,Magnesium Sulphate,93,Vermicompost,1046,11.6
+Pune,Pomegranate,Summer,6.0,14,13,22,24.2,63.7,851,2823,9320,Magnesium Sulphate,160,FYM,1887,11.5
+Nashik,Grapes,Kharif,6.34,25,12,17,33.1,56.1,1161,2140,6400,Muriate of Potash,138,Vermicompost,1483,10.4
+Satara,Cotton(lint),Summer,6.31,38,23,11,26.0,78.9,772,2851,151,Zinc Sulphate,112,Vermicompost,834,14.1
+Nashik,Sugarcane,Rabi,7.03,15,22,16,26.9,36.0,1047,1042,8534,NPK,167,FYM,510,20.4
+Ahmednagar,Cotton(lint),Kharif,7.85,38,19,20,23.2,65.8,472,1634,1786,NPK,199,Cow Dung,1931,21.7
+Satara,Pomegranate,Summer,6.72,18,8,26,24.3,60.6,1184,1953,2921,28-28-0,121,FYM,574,21.1
+Solapur,Soyabean,Rabi,5.2,14,19,33,28.6,53.9,1080,925,6663,Ammonium Sulphate,103,Cow Dung,1823,17.4
+Solapur,Cotton(lint),Rabi,6.85,30,17,38,22.6,68.6,732,4879,8220,14-35-14,186,Compost,1446,10.6
+Kolhapur,Soyabean,Rabi,6.88,32,22,23,32.5,70.5,792,1935,8196,NPK,192,Compost,1412,19.7
+Satara,Wheat,Kharif,6.82,25,24,37,19.5,55.1,1109,193,10132,Magnesium Sulphate,97,Compost,1904,5.8
+Satara,Soyabean,Kharif,6.5,27,9,39,23.5,48.2,505,2306,8716,Magnesium Sulphate,197,Vermicompost,1209,21.0
+Kolhapur,Sugarcane,Kharif,7.17,28,22,22,20.1,49.3,500,1172,10419,Calcium Nitrate,150,Compost,1352,20.6
+Nashik,Grapes,Kharif,7.05,21,12,24,31.3,86.8,758,749,8986,Ammonium Sulphate,109,Vermicompost,1275,18.4
+Kolhapur,Grapes,Rabi,6.98,11,5,31,25.9,88.1,1146,4259,8645,Ferrous Sulphate,147,Cow Dung,1385,7.0
+Ahmednagar,Sugarcane,Rabi,7.33,35,23,37,24.9,65.4,1191,320,3790,Ferrous Sulphate,149,FYM,1235,24.9
+Pune,Sugarcane,Kharif,6.66,19,27,30,27.6,48.5,728,112,1789,Potash,148,FYM,1133,20.1
+Solapur,Sugarcane,Kharif,6.61,21,21,34,31.6,63.3,1017,1057,8584,12-32-16,122,Vermicompost,1551,19.7
+Pune,Onion,Rabi,8.1,23,6,18,26.9,38.6,794,2893,816,Magnesium Sulphate,168,Vermicompost,1986,6.3
+Solapur,Pomegranate,Summer,7.45,27,23,12,30.6,68.8,434,2322,7383,Ammonium Sulphate,177,Vermicompost,895,13.0
+Satara,Soyabean,Summer,7.66,28,20,34,24.8,53.1,556,2032,12916,NPK,189,Cow Dung,1182,6.7
+Kolhapur,Sugarcane,Rabi,7.98,15,22,22,22.2,50.5,672,2478,4675,Ferrous Sulphate,137,Cow Dung,1899,12.2
+Kolhapur,Grapes,Kharif,7.42,14,6,22,26.9,76.7,795,3774,4672,17-17-17,154,Compost,920,16.4
+Kolhapur,Cotton(lint),Kharif,7.74,36,10,18,23.2,63.1,1151,4463,12412,DAP,68,Compost,863,22.6
+Ahmednagar,Cotton(lint),Rabi,5.74,25,11,27,28.8,75.4,606,2805,10770,Magnesium Sulphate,129,FYM,1739,10.7
+Ahmednagar,Onion,Summer,7.16,23,10,14,24.4,79.5,1156,3784,10656,Magnesium Sulphate,75,Compost,1624,17.5
+Nashik,Soyabean,Rabi,6.85,22,10,20,25.7,63.9,1004,1342,737,17-17-17,170,Cow Dung,592,8.3
+Sangli,Soyabean,Rabi,8.34,30,13,11,17.0,64.9,1020,4559,8079,Urea,82,Cow Dung,765,12.1
+Solapur,Pomegranate,Rabi,7.74,11,12,26,25.5,77.7,705,4370,10697,Ammonium Sulphate,155,Cow Dung,705,23.9
+Sangli,Soyabean,Kharif,6.5,11,28,32,25.0,58.5,1025,1227,9591,Muriate of Potash,79,Cow Dung,1603,20.0
+Sangli,Grapes,Kharif,7.3,21,26,29,30.7,78.9,935,4766,4048,Potash,175,FYM,536,15.9
+Solapur,Grapes,Kharif,7.13,10,25,30,29.5,40.7,861,2670,8981,Ferrous Sulphate,85,FYM,1534,10.0
+Nashik,Pomegranate,Summer,7.36,28,13,13,26.1,60.7,651,2586,12731,DAP,174,Cow Dung,1613,12.6
+Kolhapur,Onion,Rabi,6.18,37,16,31,19.5,67.2,666,2018,5650,20-20-0,173,Vermicompost,1243,8.1
+Sangli,Soyabean,Rabi,7.29,37,22,36,24.2,50.5,608,1245,10898,Potash,167,Compost,518,12.1
+Kolhapur,Soyabean,Summer,6.82,36,27,27,30.7,69.4,966,2881,9003,Ferrous Sulphate,172,FYM,873,8.0
+Satara,Sugarcane,Kharif,7.23,25,10,33,25.2,67.1,938,557,10902,NPK,86,Vermicompost,593,20.9
+Sangli,Soyabean,Rabi,6.42,39,27,29,21.7,56.2,902,454,8730,Single Super Phosphate,110,Compost,531,6.6
+Satara,Grapes,Summer,6.53,16,8,17,30.6,55.8,913,1344,11825,28-28-0,145,Vermicompost,639,8.8
+Nashik,Sugarcane,Kharif,7.94,36,29,28,19.5,54.5,979,3675,12170,Zinc Sulphate,169,Cow Dung,1472,18.8
+Pune,Sugarcane,Kharif,6.16,30,11,21,25.5,46.2,547,2869,3441,14-35-14,61,Compost,1544,23.1
+Ahmednagar,Soyabean,Rabi,6.22,16,22,37,28.2,84.3,1041,4809,5650,Calcium Nitrate,171,Vermicompost,1672,24.3
+Solapur,Cotton(lint),Kharif,6.96,25,24,20,26.5,62.5,482,3687,11384,Muriate of Potash,84,FYM,1744,21.7
+Nashik,Wheat,Summer,6.38,34,9,25,21.0,48.8,441,1923,4338,12-32-16,116,FYM,1232,9.2
+Nashik,Grapes,Kharif,6.29,15,22,14,22.3,63.5,555,1456,1883,Single Super Phosphate,87,FYM,1253,10.7
+Nashik,Cotton(lint),Rabi,7.08,27,14,37,23.2,67.9,1068,3633,9159,Single Super Phosphate,73,Compost,1742,22.4
+Sangli,Soyabean,Summer,5.8,10,12,12,29.1,55.2,852,1627,14788,Single Super Phosphate,130,Cow Dung,557,22.8
+Satara,Soyabean,Kharif,6.19,10,5,21,26.7,60.6,1018,4426,1588,DAP,121,Cow Dung,1948,17.8
+Ahmednagar,Cotton(lint),Kharif,8.64,35,19,24,24.4,80.6,683,3477,7260,Ammonium Sulphate,128,Compost,1798,11.3
+Sangli,Soyabean,Kharif,7.37,34,7,25,27.6,51.0,587,686,567,NPK,163,Compost,639,9.5
+Pune,Grapes,Summer,6.4,23,19,22,23.0,58.0,1016,857,5683,Urea,94,Cow Dung,1546,22.0
+Solapur,Pomegranate,Kharif,7.33,15,18,16,29.0,40.9,1023,2445,13264,28-28-0,174,FYM,1400,9.1
+Solapur,Sugarcane,Rabi,7.45,15,5,24,27.8,86.9,873,4574,12213,Zinc Sulphate,145,Cow Dung,877,18.2
+Ahmednagar,Onion,Summer,7.8,13,25,12,25.1,72.9,906,1465,1517,Magnesium Sulphate,62,Cow Dung,1421,24.4
+Solapur,Soyabean,Summer,6.9,21,12,21,25.4,64.4,532,2499,13306,DAP,159,Vermicompost,872,19.1
+Solapur,Soyabean,Kharif,7.78,39,11,17,24.6,56.4,670,4810,6005,20-20-0,55,FYM,1586,10.2
+Nashik,Cotton(lint),Summer,5.37,27,13,34,30.0,55.8,1021,4895,1876,14-35-14,146,Compost,1277,10.7
+Kolhapur,Sugarcane,Rabi,6.15,19,22,38,26.9,61.8,472,3546,1181,Muriate of Potash,120,Cow Dung,1865,6.9
+Pune,Cotton(lint),Summer,7.13,12,16,21,25.1,71.0,835,3638,13537,Calcium Nitrate,96,FYM,666,18.7
+Satara,Pomegranate,Rabi,7.26,12,12,27,22.1,52.2,692,4079,13228,Zinc Sulphate,142,Compost,1674,15.4
+Pune,Grapes,Kharif,6.27,17,12,12,28.4,59.4,1054,4782,3025,Potash,150,Vermicompost,1022,9.1
+Sangli,Cotton(lint),Summer,7.21,31,10,21,28.2,75.3,1171,564,4184,Magnesium Sulphate,93,Vermicompost,1083,9.6
+Solapur,Soyabean,Rabi,6.5,32,7,38,23.9,84.3,1156,3344,12353,Potash,81,FYM,1000,5.2
+Kolhapur,Sugarcane,Kharif,6.78,34,6,32,24.3,71.5,836,2958,7728,DAP,52,Cow Dung,1395,24.6
+Sangli,Grapes,Rabi,7.82,10,18,30,25.5,57.1,1066,2548,6295,12-32-16,133,Compost,1498,21.6
+Ahmednagar,Soyabean,Summer,7.73,27,12,35,21.4,63.1,1060,1416,1111,Zinc Sulphate,53,FYM,1059,12.9
+Nashik,Grapes,Summer,6.2,24,10,32,26.3,69.9,459,390,8002,DAP,194,Vermicompost,1871,23.9
+Solapur,Soyabean,Rabi,6.15,34,8,11,19.4,61.5,997,4022,913,Muriate of Potash,137,Compost,1795,18.5
+Nashik,Soyabean,Kharif,6.67,30,9,23,20.9,73.5,1103,1610,12238,Ammonium Sulphate,155,Compost,1953,20.0
+Pune,Soyabean,Kharif,6.98,29,25,23,24.0,56.2,726,2518,10608,12-32-16,154,Cow Dung,1511,18.6
+Nashik,Onion,Kharif,6.47,26,17,13,23.5,84.4,581,2478,10435,10-26-26,85,Vermicompost,732,20.1
+Nashik,Wheat,Kharif,7.83,34,13,26,27.8,63.9,1198,3738,372,Muriate of Potash,107,Vermicompost,1059,8.4
+Ahmednagar,Sugarcane,Rabi,7.28,20,17,24,27.1,57.4,1184,2745,3744,Ferrous Sulphate,57,Vermicompost,1731,16.2
+Satara,Pomegranate,Summer,7.32,22,13,25,31.5,72.1,1166,2077,1816,DAP,135,Compost,1976,22.0
+Satara,Onion,Rabi,5.99,34,28,14,26.4,53.3,833,3802,6376,17-17-17,146,Vermicompost,1420,5.4
+Sangli,Wheat,Summer,7.93,29,28,33,26.8,66.8,918,365,11267,Urea,108,FYM,1360,7.5
+Solapur,Grapes,Summer,4.74,34,20,26,21.3,81.8,1037,4039,6332,10-26-26,79,Vermicompost,1742,9.9
+Sangli,Wheat,Rabi,7.67,19,16,32,21.4,50.4,482,1151,6928,Urea,150,Compost,1371,10.9
+Satara,Wheat,Rabi,7.75,22,6,16,26.3,79.3,427,580,12392,Urea,116,Vermicompost,580,8.7
+Pune,Onion,Kharif,6.65,26,23,32,26.3,49.5,665,2452,456,10-26-26,181,Vermicompost,1113,17.5
+Satara,Sugarcane,Summer,8.02,30,20,24,27.2,74.8,682,1909,13754,Calcium Nitrate,142,Compost,1202,10.9
+Sangli,Cotton(lint),Kharif,6.95,10,28,26,31.1,53.6,796,4807,303,20-20-0,112,Vermicompost,1040,8.2
+Kolhapur,Wheat,Kharif,7.05,29,17,21,21.5,79.3,1162,1269,3845,Single Super Phosphate,81,Cow Dung,1264,23.1
+Solapur,Cotton(lint),Rabi,7.27,25,9,20,32.8,58.1,1099,4272,1696,Ferrous Sulphate,136,Compost,1774,18.9
+Nashik,Cotton(lint),Kharif,9.55,25,27,28,20.0,60.7,782,4494,6714,Muriate of Potash,100,Vermicompost,1237,9.9
+Ahmednagar,Soyabean,Kharif,8.08,37,28,20,27.5,53.7,980,1816,14899,Single Super Phosphate,112,Cow Dung,1105,12.2
+Kolhapur,Cotton(lint),Kharif,7.56,30,10,11,21.0,36.1,718,1117,596,DAP,129,FYM,1938,19.8
+Kolhapur,Grapes,Rabi,6.27,39,25,24,28.9,51.3,1010,777,13089,28-28-0,136,Compost,1609,20.8
+Nashik,Grapes,Kharif,7.11,36,28,14,20.1,44.8,592,293,13224,Ammonium Sulphate,159,Vermicompost,1121,8.5
+Satara,Soyabean,Kharif,6.35,12,21,27,15.1,40.5,626,1835,162,Potash,150,Compost,1740,23.7
+Solapur,Sugarcane,Rabi,7.66,11,21,38,26.6,68.5,850,761,1679,20-20-0,178,Cow Dung,1521,20.7
+Pune,Pomegranate,Rabi,7.11,15,21,39,25.5,83.3,581,2943,12626,20-20-0,68,Compost,695,22.1
+Kolhapur,Sugarcane,Rabi,6.1,20,7,30,30.4,86.6,726,3200,8831,NPK,150,FYM,1494,7.9
+Pune,Grapes,Summer,7.06,38,17,30,26.3,51.0,1004,4231,4393,Muriate of Potash,143,Vermicompost,1820,7.9
+Ahmednagar,Pomegranate,Rabi,6.32,12,16,25,23.0,63.7,1054,1558,4976,17-17-17,130,FYM,1445,11.1
+Ahmednagar,Soyabean,Summer,7.12,35,10,13,23.8,79.0,602,320,7950,20-20-0,152,Cow Dung,543,6.3
+Ahmednagar,Sugarcane,Rabi,6.31,10,26,36,38.9,49.3,801,1847,4225,28-28-0,162,Compost,892,6.8
+Sangli,Pomegranate,Rabi,7.02,20,25,32,22.5,79.4,1043,2610,2813,20-20-0,62,Vermicompost,1966,7.9
+Kolhapur,Pomegranate,Rabi,7.6,22,17,19,28.1,79.6,871,3610,5428,Muriate of Potash,167,Vermicompost,1613,19.2
+Ahmednagar,Wheat,Summer,6.96,14,18,31,27.6,41.6,1178,4053,13474,14-35-14,135,Cow Dung,654,5.6
+Sangli,Sugarcane,Kharif,6.69,27,11,11,28.2,36.7,1045,2227,9372,Ammonium Sulphate,72,Cow Dung,1477,6.7
+Ahmednagar,Soyabean,Rabi,7.16,24,9,24,27.9,60.2,578,887,10147,28-28-0,156,Compost,558,23.9
+Satara,Pomegranate,Summer,7.56,27,18,13,24.9,76.3,1097,2867,7987,Ferrous Sulphate,61,Vermicompost,609,6.7
+Kolhapur,Grapes,Rabi,6.11,24,22,38,19.0,46.8,417,3764,11796,Single Super Phosphate,186,Cow Dung,978,15.7
+Sangli,Wheat,Kharif,7.21,29,8,25,26.6,40.5,862,3128,3479,Ferrous Sulphate,127,Vermicompost,1117,17.9
+Ahmednagar,Cotton(lint),Summer,8.05,29,5,39,25.9,65.8,1008,2949,1698,Ammonium Sulphate,116,Compost,1283,24.2
+Solapur,Cotton(lint),Rabi,7.46,29,11,36,26.5,72.6,945,1826,7733,Single Super Phosphate,157,FYM,1572,23.0
+Sangli,Cotton(lint),Rabi,7.05,16,24,16,28.3,56.8,802,1700,9920,12-32-16,93,Cow Dung,1900,13.8
+Ahmednagar,Grapes,Rabi,7.51,26,17,34,24.3,57.8,792,2998,3278,14-35-14,198,Compost,1555,23.8
+Satara,Pomegranate,Kharif,7.36,38,8,34,23.5,72.5,699,2570,8144,10-26-26,56,FYM,1100,13.6
+Pune,Soyabean,Summer,7.6,17,17,21,29.6,54.6,750,2435,10939,14-35-14,177,Compost,1439,18.4
+Ahmednagar,Cotton(lint),Rabi,5.38,37,8,12,24.7,55.5,586,4464,5213,Ferrous Sulphate,146,Cow Dung,1491,10.2
+Pune,Sugarcane,Rabi,5.76,22,7,26,24.0,68.3,746,2818,3472,DAP,60,Compost,1030,17.7
+Kolhapur,Cotton(lint),Summer,7.8,35,12,18,23.7,69.7,1022,4288,6863,Ferrous Sulphate,155,Vermicompost,1526,15.8
+Satara,Pomegranate,Kharif,5.8,25,24,17,28.4,62.3,808,2754,1169,Muriate of Potash,132,Cow Dung,877,17.1
+Solapur,Onion,Kharif,7.32,34,12,32,25.2,82.8,1158,1222,14512,Ammonium Sulphate,85,Vermicompost,1071,18.7
+Kolhapur,Grapes,Kharif,6.72,19,29,15,34.9,74.0,470,2568,2876,12-32-16,167,Compost,1765,8.5
+Solapur,Onion,Kharif,6.2,38,21,39,26.2,60.8,726,412,1292,Magnesium Sulphate,90,Cow Dung,1086,11.0
+Pune,Cotton(lint),Kharif,7.28,23,19,24,21.2,49.5,611,699,913,Magnesium Sulphate,141,Vermicompost,856,19.7
+Satara,Pomegranate,Rabi,7.16,15,8,19,24.3,76.9,708,2306,1252,DAP,98,Vermicompost,1184,8.3
+Nashik,Cotton(lint),Rabi,8.69,29,10,32,28.6,77.3,507,3186,5932,NPK,192,Vermicompost,1720,11.9
+Satara,Onion,Rabi,6.5,31,28,36,23.6,63.8,576,4694,11047,12-32-16,190,FYM,1357,18.3
+Satara,Pomegranate,Summer,8.15,35,26,34,25.9,68.3,826,1185,1983,Potash,102,Vermicompost,1942,23.8
+Solapur,Grapes,Kharif,7.28,16,10,15,29.9,73.4,1139,4408,367,Urea,156,Vermicompost,1158,6.5
+Nashik,Grapes,Summer,6.47,15,14,24,30.5,84.2,930,3197,3771,Potash,82,Compost,1796,15.3
+Sangli,Cotton(lint),Kharif,7.64,36,8,39,23.9,75.6,817,4911,2912,Ferrous Sulphate,168,Compost,534,6.6
+Sangli,Grapes,Kharif,7.45,26,13,23,25.0,70.3,647,925,14161,NPK,81,Compost,1506,12.6
+Sangli,Wheat,Summer,7.03,30,20,35,26.4,76.2,608,3792,12972,NPK,167,Compost,960,8.5
+Pune,Pomegranate,Rabi,7.21,33,11,28,31.4,78.8,615,3901,6662,Urea,111,FYM,1217,18.0
+Satara,Pomegranate,Summer,6.52,17,18,22,21.6,68.2,1112,1202,7113,10-26-26,131,Compost,1776,20.2
+Ahmednagar,Grapes,Rabi,6.34,21,10,23,27.4,76.0,837,1972,14278,Single Super Phosphate,179,Compost,1011,9.9
+Nashik,Pomegranate,Kharif,7.61,35,5,12,26.2,56.9,1168,678,13572,Ammonium Sulphate,126,Compost,1571,19.3
+Ahmednagar,Onion,Rabi,6.82,34,22,13,22.4,77.4,1017,3069,5277,Magnesium Sulphate,65,Vermicompost,1708,13.9
+Pune,Soyabean,Kharif,6.94,13,16,35,30.9,57.0,710,1774,4185,20-20-0,172,FYM,990,10.7
+Nashik,Onion,Kharif,7.22,19,26,38,30.0,52.9,1182,4798,483,Potash,57,Compost,772,15.5
+Ahmednagar,Sugarcane,Rabi,7.21,15,19,23,32.2,63.5,782,1178,12248,Ferrous Sulphate,196,Vermicompost,1512,12.6
+Solapur,Wheat,Kharif,5.86,16,5,23,30.7,48.9,670,4611,2950,Magnesium Sulphate,116,Cow Dung,1026,9.6
+Pune,Soyabean,Rabi,8.03,30,19,35,26.0,57.8,520,813,14945,Zinc Sulphate,164,FYM,1651,20.1
+Pune,Cotton(lint),Summer,7.1,36,19,17,28.5,69.5,806,1069,12817,12-32-16,162,Compost,709,21.0
+Pune,Pomegranate,Kharif,6.84,17,20,19,27.3,68.3,644,4023,11703,12-32-16,81,Vermicompost,1123,21.0
+Nashik,Sugarcane,Kharif,7.34,12,25,18,22.4,72.7,465,3977,6821,DAP,154,Cow Dung,1665,12.6
+Ahmednagar,Sugarcane,Summer,7.19,17,5,23,20.8,72.9,627,2891,7183,20-20-0,74,Cow Dung,672,8.4
+Ahmednagar,Wheat,Kharif,7.61,24,7,17,27.5,69.5,536,2997,1149,Muriate of Potash,102,Vermicompost,946,21.8
+Kolhapur,Soyabean,Summer,7.43,39,16,20,26.4,54.8,593,724,1933,Muriate of Potash,130,Vermicompost,1642,11.6
+Pune,Sugarcane,Summer,7.57,30,11,19,24.7,76.1,1105,1058,9089,Single Super Phosphate,74,FYM,510,20.0
+Sangli,Soyabean,Kharif,8.08,10,9,27,25.6,63.7,1057,1276,4567,DAP,82,Vermicompost,1260,21.3
+Satara,Soyabean,Summer,7.71,22,5,13,33.1,67.9,1056,1685,3075,Single Super Phosphate,80,Compost,1827,20.4
+Solapur,Grapes,Summer,6.87,31,5,13,17.3,66.2,888,4426,5255,Calcium Nitrate,85,Cow Dung,1677,12.8
+Solapur,Sugarcane,Summer,6.1,27,19,21,28.6,83.9,983,373,7798,20-20-0,136,Compost,822,23.8
+Kolhapur,Soyabean,Kharif,8.33,24,12,27,29.4,50.7,753,2888,14201,10-26-26,172,Compost,1476,18.2
+Kolhapur,Wheat,Summer,6.81,16,15,38,29.9,60.9,1103,3860,8100,20-20-0,93,Compost,944,16.5
+Nashik,Sugarcane,Rabi,6.62,24,18,17,20.5,71.4,955,1735,14236,28-28-0,97,Cow Dung,841,19.0
+Kolhapur,Wheat,Rabi,5.61,34,29,12,24.8,65.3,556,3762,1390,NPK,62,Cow Dung,720,5.9
+Ahmednagar,Wheat,Summer,7.27,12,27,27,24.6,59.2,875,591,8061,17-17-17,193,Cow Dung,609,12.8
+Nashik,Soyabean,Rabi,7.12,39,17,16,27.2,42.0,415,2994,7699,Ammonium Sulphate,140,Vermicompost,909,22.6
+Nashik,Soyabean,Kharif,5.79,35,23,10,21.5,61.6,477,1377,7286,Ferrous Sulphate,180,Compost,1941,8.2
+Solapur,Grapes,Summer,7.36,23,16,31,27.5,69.3,451,688,7606,12-32-16,192,FYM,1004,13.3
+Solapur,Pomegranate,Kharif,6.6,29,26,22,22.5,71.5,913,4581,2287,28-28-0,115,Vermicompost,539,13.1
+Sangli,Grapes,Rabi,9.15,13,23,38,24.8,63.0,903,2310,8358,17-17-17,77,Vermicompost,1982,12.1
+Pune,Sugarcane,Rabi,6.54,13,8,12,31.4,67.1,1143,1479,13402,10-26-26,174,FYM,762,16.2
+Kolhapur,Grapes,Rabi,6.65,12,8,38,29.4,51.3,460,2915,13941,20-20-0,129,Compost,1641,24.9
+Pune,Cotton(lint),Rabi,6.3,14,7,12,26.5,69.7,531,1011,9684,Muriate of Potash,181,FYM,1973,10.1
+Pune,Sugarcane,Kharif,8.02,34,10,24,20.4,65.1,781,3012,14696,Ammonium Sulphate,121,Cow Dung,1937,19.1
+Pune,Wheat,Summer,6.7,20,9,30,27.3,67.0,963,2518,7891,Ferrous Sulphate,93,Compost,1207,20.2
+Nashik,Grapes,Kharif,6.42,17,15,39,27.6,62.4,1091,3278,12283,14-35-14,168,Vermicompost,1322,16.7
+Pune,Grapes,Summer,7.57,35,29,28,17.6,67.6,942,178,11313,Zinc Sulphate,95,Cow Dung,960,6.9
+Kolhapur,Pomegranate,Rabi,5.9,11,13,37,27.4,72.6,809,4449,6870,14-35-14,133,Cow Dung,1641,16.4
+Nashik,Grapes,Rabi,7.5,37,7,13,21.7,68.1,554,4016,9993,Potash,75,Vermicompost,716,24.1
+Kolhapur,Soyabean,Rabi,8.43,25,13,22,20.1,43.1,1032,966,8870,Ammonium Sulphate,145,FYM,576,11.8
+Nashik,Wheat,Rabi,7.45,34,16,22,21.5,68.3,450,1300,8034,Calcium Nitrate,62,Cow Dung,1944,17.8
+Satara,Grapes,Kharif,7.51,37,7,24,17.4,60.3,494,2248,1705,Muriate of Potash,174,Cow Dung,1391,24.2
+Satara,Onion,Summer,7.7,19,24,28,24.4,56.5,1087,4738,12335,DAP,118,Compost,1695,21.0
+Satara,Onion,Summer,8.37,27,21,25,22.0,81.2,922,4123,8087,Muriate of Potash,100,Compost,889,18.8
+Satara,Wheat,Rabi,7.97,16,25,16,30.6,53.8,923,3837,7265,17-17-17,62,Vermicompost,1549,24.4
+Nashik,Grapes,Kharif,7.35,14,16,12,24.6,55.2,754,989,13614,Magnesium Sulphate,188,Vermicompost,1651,8.4
+Pune,Pomegranate,Rabi,7.72,38,29,39,23.1,38.1,444,2328,6154,Ammonium Sulphate,109,Vermicompost,873,20.5
+Sangli,Cotton(lint),Summer,6.29,16,22,35,19.6,82.3,604,1051,10270,Single Super Phosphate,81,FYM,1153,13.1
+Solapur,Pomegranate,Summer,7.62,30,8,29,24.3,75.7,1130,3822,4605,Muriate of Potash,67,Cow Dung,1403,12.2
+Ahmednagar,Cotton(lint),Kharif,6.2,37,14,11,31.4,61.0,830,2262,11172,Magnesium Sulphate,142,Vermicompost,1547,15.4
+Sangli,Sugarcane,Summer,6.71,15,22,27,32.2,72.4,655,1660,7347,Urea,197,Compost,1993,5.7
+Satara,Sugarcane,Kharif,4.53,33,12,34,24.5,38.3,647,1677,5907,NPK,93,Cow Dung,1243,11.3
+Pune,Pomegranate,Rabi,7.32,10,13,20,25.7,70.7,932,3187,6356,Magnesium Sulphate,86,Vermicompost,922,8.3
+Kolhapur,Grapes,Rabi,6.48,38,23,10,28.8,54.7,440,4041,10962,Ferrous Sulphate,176,Cow Dung,1700,7.8
+Pune,Pomegranate,Kharif,7.89,20,17,25,21.9,85.1,858,1153,12008,Single Super Phosphate,68,Cow Dung,1352,11.7
+Kolhapur,Sugarcane,Rabi,7.31,22,29,26,27.5,69.4,1189,2237,8151,Zinc Sulphate,81,Cow Dung,1330,21.0
+Sangli,Soyabean,Kharif,7.9,21,10,25,35.5,66.6,676,4275,13227,14-35-14,155,Vermicompost,1789,9.0
+Pune,Cotton(lint),Rabi,6.13,10,26,19,29.1,55.2,594,3082,4384,28-28-0,71,Cow Dung,1472,15.6
+Pune,Wheat,Rabi,7.83,30,11,26,28.9,55.2,470,2863,12664,20-20-0,171,Cow Dung,1128,20.0
+Ahmednagar,Pomegranate,Summer,8.68,24,25,39,31.4,72.1,669,2543,14148,Magnesium Sulphate,178,Cow Dung,1069,9.8
+Sangli,Grapes,Summer,7.61,10,10,12,29.6,55.0,734,3953,14538,Muriate of Potash,103,Compost,1793,23.5
+Pune,Grapes,Kharif,7.63,12,15,27,25.0,54.6,984,78,2254,Single Super Phosphate,197,Vermicompost,1852,22.3
+Kolhapur,Onion,Rabi,7.14,35,21,28,21.3,81.9,707,4109,7842,Single Super Phosphate,107,FYM,1978,10.0
+Solapur,Cotton(lint),Rabi,6.58,24,23,23,25.5,68.5,826,1310,14327,DAP,119,Compost,1818,24.8
+Pune,Cotton(lint),Rabi,7.61,18,29,30,22.1,51.8,598,3720,14365,Muriate of Potash,112,Cow Dung,621,18.4
+Kolhapur,Cotton(lint),Summer,5.8,23,16,34,24.9,71.6,475,4944,2904,14-35-14,52,Cow Dung,658,10.7
+Satara,Pomegranate,Kharif,6.67,38,25,11,22.5,61.7,1186,3560,2320,Muriate of Potash,148,FYM,1701,18.6
+Pune,Sugarcane,Kharif,5.58,32,25,21,24.4,43.8,1194,2386,12281,DAP,94,FYM,1851,18.3
+Kolhapur,Soyabean,Kharif,6.44,37,28,20,20.1,59.0,1057,3373,9290,NPK,192,Compost,806,17.1
+Solapur,Pomegranate,Rabi,7.51,31,17,39,23.2,52.4,924,149,821,Urea,66,Cow Dung,1612,19.2
+Sangli,Wheat,Kharif,7.4,33,22,26,27.6,68.1,1040,3706,9506,Muriate of Potash,192,FYM,1250,10.4
+Satara,Sugarcane,Summer,7.04,17,11,36,28.6,57.1,629,4567,9985,DAP,54,Compost,1561,24.6
+Pune,Pomegranate,Summer,7.14,31,29,15,27.8,66.1,484,743,7074,Ferrous Sulphate,60,FYM,1090,22.2
+Ahmednagar,Soyabean,Kharif,5.49,13,27,28,24.5,73.0,561,4851,14660,Magnesium Sulphate,141,Cow Dung,845,19.9
+Kolhapur,Cotton(lint),Rabi,6.7,29,9,22,26.5,93.3,796,67,5903,Potash,191,Cow Dung,1775,5.5
+Solapur,Soyabean,Summer,6.45,29,20,16,33.8,88.8,770,3759,3494,Ferrous Sulphate,88,Cow Dung,648,16.8
+Ahmednagar,Sugarcane,Summer,6.47,15,26,31,23.1,67.7,962,2820,4125,20-20-0,91,Cow Dung,1539,19.1
+Pune,Pomegranate,Rabi,7.48,10,8,20,32.4,64.4,614,1080,11871,Zinc Sulphate,143,Vermicompost,1890,22.1
+Kolhapur,Cotton(lint),Rabi,6.31,37,27,16,20.2,57.9,400,4525,8228,20-20-0,54,Vermicompost,1334,23.9
+Pune,Pomegranate,Kharif,6.52,27,5,22,19.2,45.3,776,4259,14569,17-17-17,101,Vermicompost,1280,23.3
+Satara,Sugarcane,Summer,5.33,15,8,22,25.4,37.6,811,1669,5256,Potash,199,Compost,617,13.1
+Solapur,Wheat,Summer,6.76,39,7,30,25.9,54.9,1034,900,14528,28-28-0,93,Compost,1203,22.9
+Solapur,Cotton(lint),Kharif,6.13,23,8,10,21.5,84.6,1199,1946,14510,NPK,164,FYM,816,5.0
+Satara,Soyabean,Kharif,7.06,20,5,39,24.7,84.2,599,1025,11095,NPK,176,FYM,787,12.0
+Pune,Sugarcane,Summer,6.24,26,16,28,27.6,65.9,582,2566,10522,Calcium Nitrate,165,Compost,1407,7.3
+Pune,Onion,Summer,7.08,18,17,28,22.1,70.6,809,4238,4912,12-32-16,198,FYM,1874,22.7
+Nashik,Soyabean,Rabi,6.88,37,6,32,30.1,57.7,797,1565,8750,Ferrous Sulphate,117,Compost,796,23.6
+Pune,Soyabean,Rabi,8.34,31,13,24,30.5,64.6,615,1175,9993,NPK,96,Vermicompost,1717,10.1
+Solapur,Cotton(lint),Summer,7.4,16,11,23,31.0,55.7,1151,542,8918,17-17-17,176,Compost,1915,12.3
+Pune,Pomegranate,Summer,5.53,23,17,38,22.4,55.7,748,3086,2556,28-28-0,84,Compost,942,24.7
+Ahmednagar,Grapes,Rabi,5.99,37,26,12,22.9,72.4,979,2576,306,NPK,56,FYM,1804,16.3
+Ahmednagar,Soyabean,Kharif,7.04,26,6,36,25.3,57.7,993,216,11608,14-35-14,165,FYM,1400,14.9
+Satara,Sugarcane,Kharif,6.26,17,5,30,24.9,70.9,1053,4285,1456,NPK,101,Compost,800,15.0
+Ahmednagar,Onion,Summer,4.63,37,22,29,24.7,63.2,440,4239,13060,NPK,159,Cow Dung,1397,18.9
+Pune,Wheat,Summer,8.08,25,11,13,29.0,82.0,1150,625,11888,28-28-0,95,FYM,925,24.1
+Sangli,Onion,Rabi,7.58,21,22,38,28.4,71.6,402,655,7561,10-26-26,186,Compost,749,12.3
+Pune,Sugarcane,Summer,7.42,21,23,16,22.5,67.9,493,3393,7256,10-26-26,72,FYM,1185,8.5
+Solapur,Cotton(lint),Kharif,6.51,37,12,10,21.4,47.8,458,1868,14365,12-32-16,180,Cow Dung,1251,8.7
+Nashik,Sugarcane,Rabi,7.34,37,27,32,21.0,59.1,1139,1205,8251,Urea,176,FYM,1497,5.4
+Kolhapur,Grapes,Rabi,6.44,14,16,33,22.5,64.4,806,4729,10231,NPK,58,Compost,905,16.1
+Solapur,Grapes,Kharif,7.16,14,15,28,29.4,65.7,417,865,11087,Single Super Phosphate,102,Compost,1300,23.6
+Satara,Grapes,Kharif,6.26,23,13,12,26.6,73.0,893,2690,12660,20-20-0,97,Cow Dung,743,19.3
+Ahmednagar,Soyabean,Rabi,8.21,15,8,29,29.7,67.5,1150,1585,6622,Muriate of Potash,172,Compost,866,24.9
+Sangli,Cotton(lint),Summer,5.74,16,11,24,19.2,52.6,907,2783,2773,17-17-17,131,Cow Dung,619,23.2
+Solapur,Pomegranate,Kharif,7.99,32,21,22,27.1,72.1,985,1012,1149,Urea,158,Compost,1349,14.8
+Kolhapur,Grapes,Rabi,7.03,30,15,31,27.0,59.5,731,3084,6923,12-32-16,56,Compost,1963,14.7
+Sangli,Pomegranate,Summer,6.61,26,6,23,30.8,57.2,568,2097,2691,12-32-16,148,FYM,932,17.6
+Satara,Wheat,Summer,7.13,36,27,16,24.4,51.8,1175,4591,6976,Ferrous Sulphate,80,FYM,682,7.2
+Ahmednagar,Wheat,Rabi,7.59,18,22,10,24.1,60.8,1071,3910,12081,Ammonium Sulphate,151,Cow Dung,1984,17.2
+Nashik,Pomegranate,Kharif,8.09,31,26,22,32.0,58.3,1080,1564,4104,Magnesium Sulphate,105,FYM,1258,14.3
+Solapur,Sugarcane,Summer,7.25,22,16,13,25.3,78.9,605,3401,6073,Potash,148,Vermicompost,1641,17.9
+Solapur,Grapes,Kharif,6.29,18,13,21,26.7,61.8,920,1117,8382,Single Super Phosphate,54,Cow Dung,530,16.3
+Solapur,Soyabean,Rabi,7.04,36,15,16,27.9,71.4,904,931,8767,Magnesium Sulphate,79,Vermicompost,1476,11.2
+Satara,Wheat,Kharif,8.45,25,9,36,19.3,43.4,745,3689,8156,Magnesium Sulphate,71,Cow Dung,1672,17.2
+Sangli,Onion,Summer,8.08,13,11,11,26.2,73.9,703,1599,2146,14-35-14,194,Vermicompost,1027,12.3
+Sangli,Cotton(lint),Rabi,7.73,11,5,26,21.0,72.7,514,2787,13113,NPK,187,FYM,1796,8.9
+Satara,Onion,Summer,7.64,22,28,10,25.6,47.5,1063,4607,5407,12-32-16,76,FYM,1363,18.5
+Solapur,Pomegranate,Summer,7.56,22,29,35,24.8,54.5,486,150,7836,Ammonium Sulphate,176,Compost,1908,11.1
+Pune,Wheat,Rabi,7.93,28,9,23,24.0,57.0,494,3582,3790,Muriate of Potash,184,Vermicompost,601,22.8
+Satara,Wheat,Rabi,6.63,21,10,39,28.5,62.6,1142,2866,12317,Muriate of Potash,72,Compost,1595,9.0
+Ahmednagar,Sugarcane,Kharif,5.92,13,17,31,26.4,56.5,827,457,3366,Muriate of Potash,124,Cow Dung,1122,17.0
+Ahmednagar,Sugarcane,Rabi,7.06,19,15,37,21.8,62.1,1097,2565,4729,Ferrous Sulphate,166,Vermicompost,1304,16.4
+Nashik,Grapes,Kharif,6.35,25,12,30,21.6,72.8,849,1789,2845,Muriate of Potash,185,Compost,907,9.0
+Satara,Pomegranate,Rabi,6.16,37,24,10,29.4,58.3,1025,4102,7123,Magnesium Sulphate,57,Cow Dung,1870,13.8
+Kolhapur,Cotton(lint),Summer,6.42,33,6,35,25.8,68.6,1185,308,8376,12-32-16,150,Vermicompost,1890,18.5
+Ahmednagar,Grapes,Kharif,8.99,28,19,12,20.3,67.1,940,558,2739,Ammonium Sulphate,54,Compost,1329,11.4
+Ahmednagar,Sugarcane,Rabi,7.11,17,14,20,24.3,29.5,1114,3871,5036,Single Super Phosphate,135,Vermicompost,1288,7.3
+Ahmednagar,Soyabean,Kharif,7.29,15,12,16,25.4,55.3,401,4454,176,Zinc Sulphate,179,Vermicompost,1117,17.3
+Pune,Cotton(lint),Kharif,6.02,13,6,37,21.1,76.8,477,3733,6573,20-20-0,61,Compost,1048,9.5
+Kolhapur,Soyabean,Kharif,5.52,39,25,34,23.5,54.3,723,4770,10722,NPK,96,FYM,790,18.6
+Solapur,Grapes,Summer,6.34,16,19,38,29.7,52.2,1142,3776,3604,10-26-26,75,FYM,921,21.8
+Solapur,Sugarcane,Rabi,8.15,23,10,18,36.0,77.4,497,728,2524,20-20-0,151,Compost,680,7.5
+Satara,Cotton(lint),Rabi,7.27,36,9,31,27.2,66.8,1028,1333,6584,Urea,169,Cow Dung,1154,13.8
+Pune,Grapes,Kharif,7.48,22,26,12,20.6,82.5,509,4887,5396,Zinc Sulphate,119,Compost,613,13.9
+Ahmednagar,Wheat,Rabi,7.59,30,26,10,25.1,59.4,1078,956,6667,20-20-0,51,Compost,1761,17.7
+Solapur,Grapes,Summer,6.53,14,7,28,26.5,79.4,856,317,6186,Single Super Phosphate,75,Vermicompost,1617,11.7
+Kolhapur,Pomegranate,Kharif,8.11,18,15,35,29.1,54.3,887,3153,2321,Calcium Nitrate,63,FYM,759,13.4
+Solapur,Onion,Summer,6.49,38,15,11,29.2,34.2,770,4956,505,17-17-17,131,FYM,1630,5.2
+Kolhapur,Wheat,Summer,8.12,12,20,36,31.5,73.1,736,1250,2229,Potash,151,FYM,743,7.4
+Pune,Soyabean,Rabi,7.35,19,7,30,26.0,71.9,998,1166,12408,17-17-17,81,FYM,922,16.4
+Solapur,Wheat,Rabi,5.57,24,13,33,26.1,73.1,421,948,6934,Single Super Phosphate,111,Compost,834,9.3
+Ahmednagar,Grapes,Kharif,6.4,29,7,14,18.4,62.5,1121,2840,497,14-35-14,164,Vermicompost,1546,7.9
+Pune,Wheat,Summer,5.57,30,23,26,21.9,82.6,704,2694,14765,NPK,79,FYM,770,11.5
+Sangli,Onion,Rabi,7.93,26,15,28,20.6,75.4,671,1108,14660,20-20-0,190,FYM,1663,8.3
+Ahmednagar,Pomegranate,Kharif,6.98,32,18,37,22.6,74.9,889,737,10092,DAP,80,Vermicompost,1989,6.2
+Pune,Grapes,Kharif,5.22,33,6,14,21.4,66.5,845,837,3573,DAP,86,Compost,953,10.7
+Satara,Onion,Rabi,7.3,15,11,32,21.7,48.8,677,4544,10100,Single Super Phosphate,151,Compost,1907,8.3
+Solapur,Wheat,Summer,6.57,34,14,30,30.4,65.8,1050,2694,5089,12-32-16,177,Compost,1093,21.0
+Ahmednagar,Onion,Kharif,5.81,12,14,23,18.3,69.3,776,2214,4026,DAP,135,FYM,1900,6.3
+Nashik,Wheat,Rabi,8.34,27,24,19,25.2,89.4,631,4507,2044,NPK,108,FYM,1509,19.9
+Ahmednagar,Cotton(lint),Kharif,7.09,14,5,30,29.5,68.2,1144,253,8729,Magnesium Sulphate,77,FYM,1961,12.7
+Sangli,Wheat,Rabi,6.77,22,10,16,24.8,52.4,991,3267,5491,Ferrous Sulphate,171,Compost,1355,18.5
+Pune,Sugarcane,Kharif,6.68,34,25,38,31.3,70.6,825,2541,5499,Zinc Sulphate,110,FYM,1945,6.1
+Nashik,Onion,Summer,5.79,36,18,17,23.6,80.1,454,4872,322,28-28-0,196,Cow Dung,1679,23.4
+Sangli,Pomegranate,Kharif,5.96,10,6,39,33.0,85.5,840,2088,1710,28-28-0,65,Vermicompost,1858,20.3
+Satara,Onion,Rabi,8.03,26,10,17,19.7,63.7,433,3418,7930,Potash,118,Cow Dung,631,7.8
+Ahmednagar,Soyabean,Rabi,6.62,35,5,16,31.3,62.6,728,3608,10252,17-17-17,93,Cow Dung,1267,9.4
+Solapur,Pomegranate,Rabi,7.02,12,7,22,22.4,48.1,853,4107,4704,DAP,162,FYM,1000,17.9
+Nashik,Pomegranate,Summer,5.36,35,8,23,31.8,57.8,787,4912,4100,Ferrous Sulphate,187,Vermicompost,1663,23.4
+Solapur,Soyabean,Rabi,5.95,28,17,28,24.1,70.2,1163,1276,2764,Potash,68,Cow Dung,634,13.9
+Pune,Sugarcane,Rabi,7.49,30,7,20,30.4,46.7,829,4540,1165,Calcium Nitrate,133,Compost,1266,14.7
+Pune,Onion,Summer,7.3,29,19,11,31.1,89.6,875,4393,13587,Magnesium Sulphate,142,Compost,1311,9.8
+Satara,Pomegranate,Rabi,8.4,31,17,26,23.7,60.7,524,3561,5464,Ferrous Sulphate,190,Compost,1930,12.7
+Sangli,Onion,Rabi,8.07,21,26,15,30.1,66.4,922,963,9568,14-35-14,193,Compost,1269,10.7
+Nashik,Pomegranate,Summer,6.82,17,15,38,25.9,69.1,881,1469,5493,Ferrous Sulphate,149,Vermicompost,593,12.0
+Satara,Soyabean,Kharif,7.38,17,8,18,20.1,78.5,716,2753,7202,Muriate of Potash,88,Compost,1764,5.4
+Sangli,Soyabean,Rabi,6.75,24,21,28,28.0,68.2,521,405,7601,Magnesium Sulphate,116,Vermicompost,664,5.8
+Kolhapur,Wheat,Kharif,8.64,20,9,14,21.9,52.2,946,3522,703,Single Super Phosphate,122,Vermicompost,824,18.6
+Kolhapur,Grapes,Summer,7.92,29,25,18,23.4,70.1,980,290,5230,Calcium Nitrate,99,Vermicompost,1741,18.6
+Sangli,Onion,Rabi,7.14,10,29,39,22.4,78.5,712,1960,6395,Magnesium Sulphate,102,Vermicompost,1439,11.6
+Pune,Onion,Rabi,7.16,38,28,39,27.5,54.3,886,2326,8480,NPK,95,FYM,1119,22.7
+Pune,Pomegranate,Summer,8.16,25,12,34,22.1,74.6,1050,670,7203,20-20-0,101,Cow Dung,730,10.3
+Kolhapur,Wheat,Rabi,7.46,39,25,16,21.1,68.1,411,904,8967,Muriate of Potash,173,FYM,1081,12.9
+Pune,Onion,Kharif,8.25,23,28,39,21.8,66.1,524,3793,737,12-32-16,54,Cow Dung,1232,19.6
+Solapur,Pomegranate,Kharif,5.25,16,14,13,23.2,57.3,1058,2364,14646,Single Super Phosphate,123,FYM,1702,19.9
+Pune,Sugarcane,Summer,7.37,15,11,36,28.0,62.3,476,3250,10288,NPK,144,Compost,1603,22.2
+Sangli,Soyabean,Rabi,6.59,30,21,27,29.6,70.3,979,3674,1944,28-28-0,124,Vermicompost,1877,5.6
+Ahmednagar,Soyabean,Rabi,8.41,13,11,27,29.6,59.9,1117,1110,14774,Muriate of Potash,165,Compost,1170,8.7
+Sangli,Grapes,Summer,8.24,31,28,29,25.9,53.2,635,431,146,DAP,179,Compost,1684,17.8
+Pune,Soyabean,Kharif,7.03,17,23,26,25.8,52.8,970,1182,919,14-35-14,117,Compost,1950,11.8
+Sangli,Cotton(lint),Kharif,8.23,31,13,39,25.3,68.4,1169,2526,3907,17-17-17,129,FYM,902,5.9
+Nashik,Sugarcane,Summer,8.43,28,28,13,27.8,70.9,653,3185,3122,Zinc Sulphate,154,Compost,1555,16.7
+Kolhapur,Sugarcane,Rabi,7.06,34,6,37,30.5,64.2,805,2888,1180,DAP,118,Vermicompost,620,12.9
+Ahmednagar,Wheat,Kharif,8.98,12,26,39,25.4,86.8,642,2129,3246,Ferrous Sulphate,191,Vermicompost,1226,12.3
+Nashik,Cotton(lint),Rabi,6.97,13,24,36,28.1,44.6,860,994,1377,12-32-16,192,Cow Dung,884,10.3
+Nashik,Onion,Kharif,6.83,22,23,31,21.0,69.6,676,4012,12026,Magnesium Sulphate,183,FYM,1948,5.1
+Pune,Grapes,Rabi,7.69,30,10,25,29.4,42.9,868,4251,6841,14-35-14,65,Vermicompost,975,8.6
+Pune,Sugarcane,Kharif,6.72,36,14,31,26.9,63.8,619,2579,2317,17-17-17,136,Vermicompost,1059,14.5
+Nashik,Cotton(lint),Rabi,7.07,11,17,32,21.9,68.0,624,4351,5365,28-28-0,173,FYM,1690,10.5
+Nashik,Cotton(lint),Summer,8.13,20,29,14,30.3,62.9,500,3368,2986,Single Super Phosphate,189,Compost,888,22.5
+Satara,Pomegranate,Kharif,7.02,25,6,18,21.0,41.6,1033,884,13444,Ferrous Sulphate,90,Vermicompost,1856,7.9
+Satara,Sugarcane,Summer,5.64,19,14,11,16.9,63.9,1129,3800,5734,Muriate of Potash,168,Compost,1289,22.5
+Solapur,Pomegranate,Kharif,7.29,24,14,11,29.4,65.0,906,4234,9087,17-17-17,68,Vermicompost,1252,13.1
+Kolhapur,Wheat,Kharif,6.44,36,9,13,27.5,75.8,986,3437,3428,Single Super Phosphate,125,Cow Dung,1994,10.5
+Nashik,Cotton(lint),Kharif,7.69,19,26,29,21.2,47.9,730,4288,7393,DAP,158,Compost,1203,11.1
+Sangli,Soyabean,Rabi,7.56,11,8,29,27.4,82.3,636,256,3106,10-26-26,168,Vermicompost,552,11.6
+Ahmednagar,Cotton(lint),Kharif,8.18,15,27,26,30.7,34.8,738,3584,11476,17-17-17,162,FYM,1066,15.1
+Satara,Onion,Summer,7.73,23,6,29,27.0,49.4,1151,2102,7058,Potash,51,FYM,1320,12.1
+Pune,Sugarcane,Rabi,7.87,11,11,37,35.8,67.1,905,4356,8072,10-26-26,69,FYM,1544,17.9
+Nashik,Onion,Rabi,6.46,19,22,30,22.6,68.7,564,78,10681,Ammonium Sulphate,168,Vermicompost,1542,13.5
+Sangli,Wheat,Kharif,7.64,26,21,34,17.1,83.1,1068,1263,4243,Zinc Sulphate,144,Compost,1361,18.4
+Ahmednagar,Grapes,Rabi,8.57,17,15,28,20.4,67.3,1122,237,14799,Potash,186,Cow Dung,1979,17.1
+Sangli,Soyabean,Kharif,6.45,35,25,12,16.8,63.8,1188,1910,12150,DAP,70,Cow Dung,821,9.9
+Solapur,Sugarcane,Summer,8.44,25,22,39,34.6,70.3,1127,2622,5617,Muriate of Potash,57,Vermicompost,1326,21.3
+Sangli,Cotton(lint),Rabi,6.56,23,12,14,26.0,36.9,617,4064,1318,Muriate of Potash,78,Vermicompost,932,21.0
+Pune,Soyabean,Rabi,6.32,19,16,19,33.8,52.9,1144,4302,8118,NPK,84,Vermicompost,1582,24.8
+Satara,Cotton(lint),Summer,7.24,22,28,15,24.6,50.9,775,2177,10052,Calcium Nitrate,87,Compost,1674,8.5
+Sangli,Wheat,Summer,7.57,10,5,12,22.4,76.4,411,1941,9016,Ferrous Sulphate,139,FYM,1963,22.0
+Ahmednagar,Grapes,Kharif,7.73,19,24,26,19.1,80.6,831,2757,1444,Magnesium Sulphate,117,Compost,557,22.4
+Satara,Sugarcane,Rabi,6.23,39,29,19,24.4,87.4,482,1791,14205,Ammonium Sulphate,180,Compost,1517,17.8
+Solapur,Wheat,Summer,7.35,31,25,33,29.4,71.8,830,2723,237,Single Super Phosphate,158,Vermicompost,1250,15.1
+Solapur,Wheat,Rabi,6.45,21,16,21,25.1,75.7,1024,1863,4550,17-17-17,160,Cow Dung,1816,24.1
+Kolhapur,Grapes,Summer,5.81,39,10,10,19.6,66.1,877,4377,14256,Calcium Nitrate,61,Compost,681,24.5
+Pune,Wheat,Rabi,6.26,26,7,27,28.6,59.0,1182,209,13481,Ammonium Sulphate,81,Cow Dung,1106,17.8
+Satara,Wheat,Summer,6.4,33,9,28,29.4,52.0,1106,393,5006,20-20-0,112,Vermicompost,1601,12.2
+Solapur,Cotton(lint),Rabi,7.42,23,18,31,23.9,51.0,768,254,13993,20-20-0,92,Compost,1460,21.3
+Solapur,Pomegranate,Kharif,7.92,14,16,29,23.4,48.5,1052,3092,11846,Single Super Phosphate,156,FYM,604,6.8
+Satara,Onion,Rabi,5.82,28,17,13,19.2,73.8,1035,2935,14131,DAP,87,FYM,1784,10.8
+Sangli,Cotton(lint),Kharif,7.28,14,17,24,28.5,60.1,540,354,2859,Muriate of Potash,78,Compost,1106,24.7
+Ahmednagar,Grapes,Kharif,6.06,24,21,18,24.2,56.3,1119,2767,158,Potash,104,FYM,1746,21.3
+Sangli,Soyabean,Kharif,7.5,22,28,15,15.3,40.7,1026,3991,870,Ferrous Sulphate,101,Compost,1489,23.8
+Ahmednagar,Grapes,Rabi,6.5,26,19,21,20.1,54.0,1117,449,488,Muriate of Potash,164,FYM,983,16.9
+Solapur,Grapes,Rabi,6.16,10,10,27,28.2,61.6,855,3570,12216,14-35-14,68,Vermicompost,628,13.2
+Solapur,Grapes,Kharif,7.64,37,16,32,24.6,46.6,901,1035,3522,Zinc Sulphate,84,FYM,818,24.6
+Pune,Grapes,Summer,6.53,23,6,24,21.5,96.9,802,1855,7112,12-32-16,97,FYM,1206,11.2
+Satara,Wheat,Rabi,6.75,13,8,38,26.2,48.9,687,2146,12726,NPK,159,Vermicompost,1008,20.1
+Nashik,Grapes,Rabi,5.22,34,24,28,22.6,78.8,754,4351,4952,Ferrous Sulphate,80,Vermicompost,519,16.2
+Solapur,Soyabean,Rabi,7.76,39,29,18,23.4,63.6,742,1509,695,12-32-16,52,FYM,1251,9.6
+Ahmednagar,Grapes,Rabi,7.66,18,29,31,24.9,58.2,548,1395,8727,Potash,137,Cow Dung,734,5.3
+Ahmednagar,Cotton(lint),Kharif,7.0,26,25,33,32.7,62.0,609,280,9765,17-17-17,101,Cow Dung,1105,12.7
+Sangli,Wheat,Summer,5.78,12,16,22,32.7,65.2,511,3832,12764,Ferrous Sulphate,120,Compost,1053,16.0
+Sangli,Cotton(lint),Summer,7.97,22,7,25,18.1,67.7,1053,3550,2082,Ferrous Sulphate,100,FYM,1873,8.7
+Solapur,Wheat,Summer,6.47,21,21,22,25.7,53.2,935,932,10730,10-26-26,105,Compost,952,13.3
+Solapur,Cotton(lint),Summer,6.64,25,10,10,20.2,71.7,448,2823,14916,Single Super Phosphate,148,Vermicompost,1085,17.3
+Kolhapur,Sugarcane,Kharif,8.85,13,28,27,21.7,61.6,1199,2381,11160,Single Super Phosphate,70,FYM,1483,19.3
+Ahmednagar,Onion,Rabi,6.44,27,21,31,18.6,49.0,730,482,12501,28-28-0,178,Vermicompost,922,6.1
+Pune,Onion,Rabi,7.59,32,21,12,22.5,59.9,764,1258,12109,Potash,157,FYM,1713,18.3
+Satara,Wheat,Kharif,7.45,12,15,26,21.2,82.0,410,2730,9065,20-20-0,102,FYM,1648,6.1
+Satara,Sugarcane,Rabi,7.31,26,27,31,30.1,67.6,587,2313,10218,Ammonium Sulphate,55,Vermicompost,505,5.6
+Satara,Soyabean,Kharif,7.23,10,11,14,22.6,65.1,908,3052,10511,Ferrous Sulphate,131,FYM,957,8.0
+Ahmednagar,Sugarcane,Summer,7.3,28,6,38,18.2,60.2,979,2462,8309,Urea,128,FYM,1053,18.1
+Sangli,Pomegranate,Kharif,7.22,31,23,34,26.0,61.2,844,1867,4430,Calcium Nitrate,96,Compost,1021,6.1
+Pune,Wheat,Rabi,6.96,13,6,15,25.3,67.6,489,667,5529,14-35-14,145,Vermicompost,1612,5.4
+Satara,Sugarcane,Rabi,8.21,26,26,30,24.9,61.8,1021,4542,12258,Potash,155,Cow Dung,1345,7.4
+Ahmednagar,Soyabean,Rabi,5.95,16,17,26,28.4,70.4,1075,2555,1792,Ammonium Sulphate,131,Cow Dung,1634,24.0
+Nashik,Wheat,Summer,7.82,11,28,26,30.9,68.9,847,367,2870,NPK,80,FYM,1050,23.1
+Solapur,Onion,Kharif,7.66,21,28,36,24.9,50.7,1117,506,4476,10-26-26,192,Compost,1920,6.7
+Kolhapur,Grapes,Kharif,7.56,14,20,10,27.1,71.3,431,550,5026,Potash,107,FYM,510,11.1
+Kolhapur,Sugarcane,Rabi,7.89,25,21,16,25.0,53.5,726,4468,3367,12-32-16,72,Compost,996,23.9
+Satara,Onion,Kharif,6.93,17,15,31,28.0,53.1,473,2365,9430,DAP,90,FYM,1539,7.0
+Sangli,Onion,Rabi,5.5,32,13,39,20.1,64.7,650,3924,7664,17-17-17,64,Cow Dung,1556,6.9

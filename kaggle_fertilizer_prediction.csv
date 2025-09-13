@@ -1,0 +1,501 @@
+Temparature,Humidity,Moisture,Soil Type,Crop Type,Nitrogen,Phosphorus,Potassium,pH,Fertilizer Name
+24.69,72.73,27.3,Loamy,Linseed,23,33,0,8.4,Ferrous Sulphate
+27.72,48.84,23.9,Clayey,Gram,40,17,27,8.3,NPK
+28.83,67.15,78.49,Sandy,Gram,25,41,48,7.6,Calcium Nitrate
+31.85,92.87,60.87,Black,Arhar(Tur),20,9,46,7.4,Potash
+29.84,65.27,45.05,Sandy,Wheat,17,37,45,6.2,20-20-0
+29.13,90.37,62.1,Black,Bajra,14,43,13,5.4,NPK
+26.18,75.42,65.38,Loamy,Other Kharif pulses,14,16,41,7.0,DAP
+27.11,51.51,66.8,Loamy,Urad,5,12,33,7.0,28-28-0
+26.22,74.87,48.67,Red,Rice,42,47,30,8.3,Urea
+32.63,70.36,45.79,Red,Moong(Green Gram),30,41,5,6.5,Potash
+23.45,63.92,20.66,Black,Rice,27,26,48,7.4,14-35-14
+20.09,47.18,75.59,Black,Linseed,7,1,4,7.0,12-32-16
+29.77,65.0,56.2,Loamy,Niger,28,33,30,5.6,17-17-17
+23.04,44.37,32.19,Clayey,Maize,20,30,36,7.1,17-17-17
+33.35,45.93,75.18,Black,Other Kharif pulses,16,22,14,6.9,Potash
+32.89,64.95,74.9,Black,Moong(Green Gram),48,6,14,6.7,Single Super Phosphate
+21.15,58.32,79.35,Clayey,Ragi,23,37,42,6.8,NPK
+21.6,95.53,72.44,Red,Arhar(Tur),49,32,4,5.6,Muriate of Potash
+27.43,62.54,79.87,Red,Gram,35,11,27,6.6,14-35-14
+29.14,85.47,34.68,Black,Moong(Green Gram),30,44,32,7.1,Muriate of Potash
+24.12,71.81,70.53,Red,Linseed,46,11,10,6.7,Potash
+30.75,82.25,69.38,Red,Ragi,33,18,42,6.7,Potash
+28.92,55.61,33.86,Red,Gram,1,8,5,5.3,10-26-26
+24.87,96.51,25.91,Loamy,Ragi,41,9,22,5.7,Calcium Nitrate
+20.38,71.81,78.77,Sandy,Gram,2,16,39,6.1,Magnesium Sulphate
+31.25,89.88,37.76,Black,Ragi,29,49,1,6.5,Zinc Sulphate
+23.22,61.9,72.25,Black,Maize,7,39,14,7.1,Urea
+32.52,46.01,20.25,Loamy,Moong(Green Gram),6,38,22,8.0,Potash
+26.3,80.42,21.26,Sandy,Linseed,11,40,21,5.6,Muriate of Potash
+28.66,40.47,47.95,Sandy,Jowar,18,9,8,5.1,Urea
+33.09,68.52,34.32,Loamy,Arhar(Tur),25,11,46,6.6,DAP
+32.95,51.57,61.39,Clayey,Safflower,27,14,39,6.5,NPK
+25.57,77.64,53.93,Clayey,Wheat,14,30,29,6.9,Muriate of Potash
+23.13,98.77,24.65,Sandy,Rice,13,14,15,7.9,17-17-17
+31.63,67.86,29.76,Clayey,Linseed,47,27,45,7.8,NPK
+26.5,89.05,43.28,Clayey,Maize,13,3,46,5.4,Muriate of Potash
+22.88,70.47,31.14,Clayey,Bajra,2,35,29,8.3,17-17-17
+33.57,69.75,67.53,Sandy,Wheat,49,0,44,5.4,Ferrous Sulphate
+22.97,95.83,44.96,Clayey,Arhar(Tur),28,43,8,7.2,10-26-26
+20.39,93.4,25.61,Black,Maize,5,33,0,7.4,Zinc Sulphate
+20.3,87.15,49.06,Sandy,Niger,48,46,37,7.4,Magnesium Sulphate
+29.33,57.78,25.45,Loamy,Safflower,22,16,7,5.9,20-20-0
+29.93,72.7,27.74,Clayey,Wheat,27,38,17,6.2,DAP
+24.67,53.43,34.38,Red,Rice,13,37,26,6.9,Magnesium Sulphate
+24.8,66.64,71.57,Sandy,Ragi,13,43,17,5.7,17-17-17
+25.09,69.05,75.48,Loamy,Gram,19,32,31,5.1,28-28-0
+30.2,89.9,69.58,Black,Other Kharif pulses,12,20,48,7.0,Zinc Sulphate
+20.87,93.76,40.04,Loamy,Ragi,26,25,31,6.6,20-20-0
+33.94,64.88,36.35,Clayey,Arhar(Tur),34,45,47,7.3,12-32-16
+23.34,41.06,52.95,Red,Rice,44,35,44,5.5,14-35-14
+35.0,91.71,63.31,Clayey,Niger,1,4,35,7.9,28-28-0
+22.57,50.46,79.6,Loamy,Wheat,40,32,35,5.5,Urea
+31.57,77.31,27.89,Sandy,Other Rabi pulses,44,0,20,8.1,DAP
+23.35,41.5,22.96,Red,Urad,39,5,45,6.6,Muriate of Potash
+21.21,63.97,61.66,Red,Safflower,47,36,31,6.9,NPK
+33.12,99.16,69.93,Loamy,Other Rabi pulses,23,1,30,8.1,Single Super Phosphate
+32.88,46.04,70.78,Clayey,Niger,28,4,36,6.0,Ammonium Sulphate
+26.05,65.42,60.71,Loamy,Other Kharif pulses,2,25,15,5.6,Ammonium Sulphate
+30.54,58.43,77.24,Red,Ragi,44,40,45,6.6,Single Super Phosphate
+28.36,94.31,50.66,Loamy,Jowar,3,46,45,5.9,Magnesium Sulphate
+32.79,92.16,74.83,Red,Wheat,49,12,13,6.8,20-20-0
+24.73,54.26,78.07,Clayey,Ragi,1,11,23,6.0,Ammonium Sulphate
+27.86,44.87,70.83,Sandy,Wheat,19,4,24,8.0,Ferrous Sulphate
+27.28,77.63,38.59,Sandy,Safflower,14,1,45,7.1,NPK
+25.31,60.18,31.77,Loamy,Other Kharif pulses,48,3,34,5.0,DAP
+33.37,80.33,52.89,Red,Arhar(Tur),31,26,16,7.8,Single Super Phosphate
+22.49,41.93,47.18,Sandy,Other Rabi pulses,41,49,45,6.2,14-35-14
+22.24,48.0,72.67,Red,Linseed,0,9,41,6.1,10-26-26
+28.65,81.18,26.0,Clayey,Bajra,37,12,44,6.3,NPK
+29.86,52.74,35.46,Loamy,Ragi,34,43,3,7.2,12-32-16
+22.92,91.46,65.11,Red,Linseed,6,1,10,6.5,20-20-0
+25.86,43.52,25.7,Loamy,Safflower,44,25,46,7.2,Urea
+34.2,52.93,39.25,Red,Other Rabi pulses,12,14,14,5.5,Zinc Sulphate
+23.7,99.91,43.23,Red,Wheat,48,45,29,8.4,Magnesium Sulphate
+30.03,65.98,57.36,Clayey,Bajra,0,9,23,7.6,Magnesium Sulphate
+31.1,82.18,29.49,Loamy,Other Rabi pulses,13,21,1,5.9,28-28-0
+26.72,50.96,71.64,Black,Bajra,28,39,42,7.5,20-20-0
+34.06,76.59,46.85,Red,Niger,2,24,33,7.0,Ferrous Sulphate
+31.05,83.57,75.02,Red,Jowar,45,14,22,5.4,12-32-16
+26.87,58.87,48.07,Sandy,Gram,23,12,30,5.6,Urea
+28.54,89.73,36.5,Loamy,Bajra,0,7,36,5.1,Muriate of Potash
+30.39,76.21,28.51,Black,Linseed,47,20,12,7.8,Muriate of Potash
+28.88,63.35,20.22,Clayey,Other Rabi pulses,9,20,32,6.9,Zinc Sulphate
+33.18,73.46,51.93,Black,Niger,12,21,6,6.1,Potash
+25.35,74.61,26.43,Clayey,Other Kharif pulses,35,45,31,5.4,10-26-26
+24.5,49.93,43.5,Black,Rice,8,32,6,6.7,28-28-0
+23.21,64.16,55.36,Black,Safflower,13,44,41,6.8,Calcium Nitrate
+20.57,60.61,36.54,Loamy,Bajra,35,26,37,7.5,Zinc Sulphate
+20.65,64.05,30.51,Sandy,Urad,9,39,43,8.4,Ammonium Sulphate
+33.05,85.67,66.48,Black,Wheat,39,49,12,6.5,20-20-0
+30.18,68.95,76.81,Red,Safflower,22,21,23,6.4,28-28-0
+29.91,96.42,26.03,Red,Bajra,34,29,27,6.3,Potash
+29.22,57.62,29.34,Red,Moong(Green Gram),6,8,31,7.9,Muriate of Potash
+32.74,64.94,77.6,Sandy,Rice,41,44,42,5.5,12-32-16
+27.2,87.22,22.27,Black,Maize,34,34,17,6.2,Ammonium Sulphate
+33.06,72.76,78.66,Clayey,Rice,1,17,33,7.5,Potash
+25.39,72.82,20.28,Clayey,Arhar(Tur),14,41,47,5.1,14-35-14
+33.9,43.2,72.42,Loamy,Maize,8,4,33,6.0,Ferrous Sulphate
+30.48,63.92,38.44,Sandy,Safflower,46,26,37,7.2,12-32-16
+23.86,56.24,76.32,Black,Jowar,16,5,0,5.7,Urea
+28.46,99.96,39.02,Red,Other Rabi pulses,38,31,42,6.1,12-32-16
+28.0,58.5,59.26,Sandy,Niger,17,7,49,6.7,14-35-14
+22.07,93.07,24.8,Sandy,Rice,14,38,41,6.5,Urea
+28.87,80.57,34.54,Black,Gram,17,20,30,5.4,Magnesium Sulphate
+24.72,60.45,66.42,Loamy,Safflower,23,17,49,8.3,NPK
+20.79,72.61,51.72,Loamy,Arhar(Tur),22,13,0,5.2,Calcium Nitrate
+34.23,90.43,75.68,Loamy,Other Rabi pulses,11,14,15,7.6,Magnesium Sulphate
+29.62,93.0,45.73,Red,Rice,22,41,38,5.2,20-20-0
+33.15,49.62,72.19,Red,Bajra,20,25,14,6.6,10-26-26
+30.14,60.37,46.94,Black,Gram,25,43,32,5.6,Magnesium Sulphate
+25.35,60.11,78.75,Loamy,Safflower,7,31,22,5.5,12-32-16
+27.69,42.52,77.59,Black,Ragi,29,38,40,5.4,Ammonium Sulphate
+30.14,75.89,39.75,Loamy,Safflower,33,27,33,6.6,Zinc Sulphate
+34.4,91.29,73.16,Sandy,Ragi,1,38,16,6.8,Potash
+23.81,62.89,70.86,Clayey,Safflower,4,42,24,5.5,DAP
+33.12,84.4,32.64,Clayey,Arhar(Tur),30,31,41,8.4,Single Super Phosphate
+33.86,77.66,57.46,Loamy,Gram,32,12,5,5.9,Muriate of Potash
+30.06,62.54,24.36,Black,Niger,3,14,30,6.6,Ferrous Sulphate
+33.97,48.46,70.2,Red,Gram,5,17,4,5.8,Single Super Phosphate
+25.97,82.56,30.47,Loamy,Rice,22,38,39,6.7,Muriate of Potash
+34.3,91.27,24.25,Loamy,Arhar(Tur),44,5,39,7.6,12-32-16
+30.54,81.15,44.01,Red,Jowar,18,10,29,6.8,Magnesium Sulphate
+20.63,41.07,54.62,Loamy,Ragi,42,31,4,6.0,14-35-14
+33.6,52.97,71.3,Sandy,Linseed,44,39,11,5.9,Muriate of Potash
+27.27,44.17,78.45,Red,Moong(Green Gram),7,19,6,7.7,Single Super Phosphate
+26.9,74.22,46.37,Sandy,Linseed,38,32,44,5.4,DAP
+28.5,85.39,23.63,Clayey,Maize,12,39,12,6.3,Urea
+22.24,46.63,64.95,Red,Other Kharif pulses,0,7,48,5.5,12-32-16
+27.04,90.3,53.91,Red,Bajra,5,34,3,5.9,NPK
+32.47,73.33,46.87,Black,Gram,6,4,49,5.5,12-32-16
+20.23,81.4,38.56,Black,Moong(Green Gram),47,34,41,8.1,Calcium Nitrate
+24.09,98.28,50.14,Red,Moong(Green Gram),26,46,2,7.6,NPK
+20.04,45.02,40.32,Clayey,Wheat,14,13,11,7.0,20-20-0
+26.24,94.07,65.42,Loamy,Moong(Green Gram),33,20,0,5.8,Ferrous Sulphate
+30.92,47.57,52.63,Black,Maize,22,46,26,6.8,Muriate of Potash
+31.98,63.58,72.61,Clayey,Linseed,47,23,42,6.8,Single Super Phosphate
+34.18,91.09,52.61,Clayey,Gram,48,16,49,7.1,Muriate of Potash
+29.13,94.38,34.3,Black,Maize,23,17,12,5.2,10-26-26
+23.82,70.38,71.07,Loamy,Bajra,14,33,16,8.4,Zinc Sulphate
+33.86,75.65,53.43,Black,Safflower,34,11,7,6.6,Potash
+31.63,82.49,32.41,Clayey,Arhar(Tur),3,15,31,8.2,Zinc Sulphate
+28.62,89.97,57.41,Sandy,Gram,43,3,19,5.0,Calcium Nitrate
+30.43,47.29,41.46,Black,Niger,36,24,16,5.9,DAP
+33.86,88.6,70.66,Clayey,Gram,16,33,33,5.4,Magnesium Sulphate
+30.69,68.88,47.2,Black,Urad,30,27,34,7.7,Ammonium Sulphate
+25.53,67.04,63.59,Clayey,Urad,37,45,34,6.1,12-32-16
+30.7,65.43,25.73,Loamy,Rice,9,10,37,7.9,17-17-17
+20.6,70.55,43.76,Clayey,Rice,49,12,41,7.9,10-26-26
+25.8,96.7,78.99,Red,Other Kharif pulses,26,30,23,7.3,Muriate of Potash
+26.09,72.89,68.51,Sandy,Other Rabi pulses,41,24,17,7.3,Magnesium Sulphate
+22.5,97.19,29.6,Clayey,Other Rabi pulses,5,38,49,7.5,17-17-17
+20.35,50.82,36.67,Black,Gram,5,9,45,7.4,Magnesium Sulphate
+22.0,83.45,39.79,Black,Safflower,14,23,47,6.4,Ferrous Sulphate
+29.82,88.73,59.02,Clayey,Maize,3,0,38,7.4,NPK
+32.03,80.75,65.42,Red,Rice,47,24,32,8.1,Single Super Phosphate
+34.82,76.42,64.97,Clayey,Wheat,39,27,48,6.2,12-32-16
+25.2,73.89,50.59,Loamy,Other Rabi pulses,6,35,22,8.3,Muriate of Potash
+28.99,91.66,68.65,Red,Rice,48,17,24,5.0,17-17-17
+34.06,89.3,46.22,Clayey,Safflower,44,5,36,6.2,Zinc Sulphate
+22.51,47.34,27.43,Sandy,Jowar,46,1,26,5.5,Magnesium Sulphate
+30.76,90.92,53.87,Red,Jowar,25,2,0,5.4,Potash
+31.32,64.84,77.14,Clayey,Wheat,30,45,20,7.9,Single Super Phosphate
+21.33,55.22,67.58,Sandy,Moong(Green Gram),1,7,48,8.2,Ferrous Sulphate
+32.92,92.19,54.72,Clayey,Jowar,27,30,9,7.7,Single Super Phosphate
+32.2,65.92,58.81,Loamy,Niger,41,47,30,8.4,NPK
+20.5,88.5,75.83,Black,Urad,12,18,43,5.8,Urea
+21.37,55.8,45.7,Clayey,Safflower,17,49,24,5.5,14-35-14
+20.74,40.24,39.88,Red,Other Rabi pulses,29,5,19,6.8,Single Super Phosphate
+25.02,69.73,78.63,Clayey,Urad,10,13,1,7.9,Muriate of Potash
+27.64,46.01,71.81,Clayey,Jowar,12,2,47,5.1,20-20-0
+27.99,85.26,39.38,Clayey,Rice,23,47,14,8.5,Ammonium Sulphate
+24.02,56.56,47.83,Clayey,Other Kharif pulses,28,0,27,7.1,Ammonium Sulphate
+33.67,66.62,44.9,Red,Safflower,4,43,12,8.4,Magnesium Sulphate
+25.52,45.22,28.95,Red,Other Kharif pulses,34,29,49,6.3,Urea
+20.68,57.2,77.47,Clayey,Urad,18,45,13,6.6,Magnesium Sulphate
+24.5,86.89,44.26,Black,Safflower,12,18,49,7.6,28-28-0
+27.97,49.1,72.52,Clayey,Jowar,4,18,1,7.8,20-20-0
+26.12,78.83,31.36,Red,Moong(Green Gram),43,8,33,5.8,DAP
+24.11,95.05,52.87,Loamy,Niger,13,6,34,8.3,Ammonium Sulphate
+21.97,80.79,21.44,Clayey,Bajra,37,45,36,8.0,28-28-0
+32.29,88.66,65.85,Clayey,Rice,21,36,24,5.1,Urea
+34.94,46.54,54.85,Clayey,Gram,8,49,47,5.4,Ferrous Sulphate
+24.94,55.04,57.54,Clayey,Rice,48,40,14,6.7,Ammonium Sulphate
+25.72,93.67,23.1,Sandy,Other Kharif pulses,39,6,11,6.6,Magnesium Sulphate
+29.27,82.91,32.66,Clayey,Jowar,25,8,8,7.5,Muriate of Potash
+30.78,78.37,24.46,Red,Arhar(Tur),44,3,30,5.3,Ferrous Sulphate
+25.88,79.83,37.33,Red,Other Rabi pulses,4,24,13,7.3,DAP
+33.57,64.85,57.65,Sandy,Ragi,28,48,28,7.2,28-28-0
+28.4,42.67,53.97,Clayey,Other Rabi pulses,21,11,47,5.8,Urea
+26.76,87.07,56.73,Black,Gram,48,5,42,6.9,10-26-26
+29.7,80.72,52.96,Clayey,Jowar,2,17,37,5.8,Potash
+34.29,68.37,36.38,Red,Wheat,27,39,41,5.5,Ammonium Sulphate
+31.92,93.99,34.67,Loamy,Jowar,37,20,7,7.0,Urea
+20.6,60.17,28.22,Loamy,Rice,13,14,47,8.4,Potash
+24.98,57.66,70.94,Black,Other Rabi pulses,46,2,2,5.8,Ammonium Sulphate
+27.06,92.37,56.99,Clayey,Bajra,13,1,1,6.2,Zinc Sulphate
+24.72,87.82,31.19,Sandy,Safflower,42,40,15,5.9,Zinc Sulphate
+30.5,70.9,30.63,Clayey,Wheat,10,39,18,5.9,10-26-26
+32.39,47.84,72.38,Black,Other Kharif pulses,8,3,29,6.4,Potash
+30.97,52.9,64.56,Black,Maize,37,31,40,7.5,28-28-0
+34.84,79.37,59.56,Black,Maize,46,1,15,5.1,DAP
+24.09,63.1,44.41,Loamy,Safflower,43,45,30,8.3,10-26-26
+33.12,90.19,35.72,Clayey,Arhar(Tur),5,28,27,5.2,Zinc Sulphate
+31.5,97.0,78.77,Clayey,Niger,0,1,3,8.1,10-26-26
+25.43,88.34,67.83,Sandy,Safflower,24,33,9,8.1,Single Super Phosphate
+31.01,62.65,38.11,Black,Other Kharif pulses,15,26,44,6.8,14-35-14
+21.56,87.32,70.85,Black,Moong(Green Gram),14,38,17,5.5,Ferrous Sulphate
+31.84,61.09,65.54,Red,Urad,33,43,46,7.0,17-17-17
+27.98,50.03,37.82,Red,Other Rabi pulses,16,37,31,7.2,12-32-16
+24.38,42.0,45.59,Loamy,Arhar(Tur),2,17,29,8.0,Zinc Sulphate
+29.84,63.14,31.16,Clayey,Maize,2,35,35,6.9,28-28-0
+29.62,94.21,26.66,Sandy,Urad,36,18,8,6.4,10-26-26
+23.14,54.34,63.37,Sandy,Moong(Green Gram),16,26,35,7.9,10-26-26
+20.46,52.39,36.05,Black,Other Kharif pulses,48,44,28,8.4,Zinc Sulphate
+26.5,98.19,69.2,Sandy,Urad,37,19,15,7.3,12-32-16
+28.54,41.5,79.74,Black,Other Kharif pulses,0,20,27,8.1,Single Super Phosphate
+33.15,87.15,24.6,Clayey,Moong(Green Gram),6,22,20,7.1,Ammonium Sulphate
+33.92,59.28,48.38,Sandy,Ragi,25,29,46,7.4,Zinc Sulphate
+27.93,42.25,68.12,Black,Wheat,46,24,1,7.4,NPK
+31.31,95.07,67.34,Clayey,Urad,38,30,45,7.5,20-20-0
+26.59,48.38,65.6,Clayey,Other Rabi pulses,18,26,34,6.1,17-17-17
+31.19,73.11,40.94,Black,Urad,29,33,27,7.0,Urea
+23.07,56.44,47.23,Black,Other Kharif pulses,42,7,35,7.1,Urea
+25.57,43.91,55.7,Loamy,Other Kharif pulses,13,18,30,6.1,Calcium Nitrate
+29.51,43.0,78.44,Clayey,Urad,12,40,32,6.2,Potash
+20.27,46.93,39.65,Black,Niger,19,25,22,7.7,Single Super Phosphate
+30.84,44.28,75.39,Clayey,Other Kharif pulses,25,27,40,7.0,14-35-14
+32.53,85.63,36.16,Sandy,Bajra,26,3,16,5.5,20-20-0
+25.99,69.13,79.34,Red,Gram,24,30,45,7.9,Potash
+26.72,60.57,60.22,Red,Other Rabi pulses,8,15,48,8.1,Muriate of Potash
+32.77,65.1,47.81,Black,Safflower,40,9,0,6.6,Potash
+31.63,95.74,56.8,Black,Bajra,47,37,41,5.7,12-32-16
+24.32,94.65,36.35,Clayey,Gram,11,47,22,8.3,Ammonium Sulphate
+24.86,82.94,36.45,Black,Ragi,9,9,47,8.1,DAP
+30.18,93.08,26.81,Clayey,Ragi,5,44,26,5.9,Zinc Sulphate
+28.45,59.18,26.84,Black,Safflower,49,8,24,5.3,Magnesium Sulphate
+22.43,62.87,40.86,Clayey,Linseed,33,38,31,6.5,Calcium Nitrate
+24.65,76.82,65.77,Black,Safflower,40,35,18,7.4,Potash
+33.5,77.42,56.48,Loamy,Linseed,18,35,23,5.6,DAP
+30.32,68.9,26.16,Clayey,Ragi,5,18,2,6.8,17-17-17
+34.79,64.04,71.13,Loamy,Maize,1,18,11,6.5,Magnesium Sulphate
+31.51,99.17,56.08,Loamy,Niger,14,11,34,8.1,Magnesium Sulphate
+34.13,89.27,77.65,Loamy,Maize,16,12,14,6.5,DAP
+23.24,66.1,60.21,Loamy,Jowar,15,24,16,6.9,Magnesium Sulphate
+31.57,83.64,30.51,Sandy,Niger,27,35,49,8.3,17-17-17
+20.3,56.17,48.43,Red,Arhar(Tur),20,24,31,6.0,12-32-16
+30.06,46.01,58.91,Sandy,Other Rabi pulses,7,27,6,6.0,Zinc Sulphate
+27.04,61.15,21.7,Black,Wheat,9,41,18,7.8,Ammonium Sulphate
+25.2,64.18,20.89,Black,Niger,9,38,6,6.0,DAP
+32.94,40.99,27.76,Red,Bajra,49,29,4,7.9,14-35-14
+32.81,88.89,35.1,Red,Moong(Green Gram),9,4,39,5.3,DAP
+20.33,61.55,45.77,Red,Wheat,8,16,20,5.4,NPK
+29.14,74.83,49.25,Loamy,Safflower,27,17,47,8.2,DAP
+25.52,44.44,28.28,Sandy,Gram,23,42,47,6.9,10-26-26
+26.23,50.5,60.4,Black,Wheat,18,46,46,7.5,10-26-26
+32.48,93.38,55.77,Sandy,Moong(Green Gram),32,20,6,5.8,Zinc Sulphate
+24.65,76.52,37.67,Sandy,Rice,3,21,36,5.6,17-17-17
+34.15,97.02,20.82,Sandy,Urad,2,38,22,7.9,12-32-16
+22.69,99.93,24.66,Red,Niger,41,49,10,6.3,20-20-0
+29.94,62.31,43.5,Red,Arhar(Tur),11,5,9,6.6,Zinc Sulphate
+30.08,57.93,29.24,Black,Safflower,17,49,20,5.1,Calcium Nitrate
+23.78,91.5,42.61,Black,Other Rabi pulses,22,15,40,6.4,NPK
+24.87,99.92,57.69,Black,Jowar,19,1,32,7.7,Muriate of Potash
+32.52,77.78,52.83,Sandy,Gram,5,0,19,7.9,Magnesium Sulphate
+31.43,87.71,33.87,Red,Other Rabi pulses,33,29,32,7.4,Ammonium Sulphate
+24.94,86.9,40.63,Loamy,Ragi,41,42,39,7.4,Ammonium Sulphate
+28.01,61.32,56.84,Sandy,Moong(Green Gram),1,36,34,6.8,28-28-0
+20.93,74.46,71.65,Clayey,Gram,29,47,33,6.9,Single Super Phosphate
+23.13,89.98,65.19,Sandy,Maize,8,22,35,7.6,12-32-16
+27.29,81.29,53.2,Red,Ragi,26,0,26,5.9,Ferrous Sulphate
+21.29,41.27,41.74,Clayey,Other Rabi pulses,41,18,18,5.8,Ferrous Sulphate
+32.65,60.2,41.9,Sandy,Other Kharif pulses,33,45,42,8.3,12-32-16
+30.77,48.67,72.77,Red,Moong(Green Gram),39,2,4,5.1,12-32-16
+34.15,53.98,22.35,Red,Linseed,23,1,28,5.5,NPK
+30.4,94.33,79.28,Loamy,Ragi,48,36,9,7.0,Calcium Nitrate
+34.11,42.21,59.86,Sandy,Other Rabi pulses,16,16,39,7.6,12-32-16
+28.32,53.19,60.87,Red,Urad,28,27,12,6.9,Single Super Phosphate
+29.0,58.57,22.28,Black,Safflower,35,17,28,6.2,Ferrous Sulphate
+34.65,77.01,56.33,Red,Other Rabi pulses,49,32,4,8.4,28-28-0
+29.63,72.05,49.09,Loamy,Urad,11,14,11,7.5,20-20-0
+20.46,53.1,26.35,Red,Urad,30,21,12,7.9,Magnesium Sulphate
+30.86,49.85,36.68,Sandy,Ragi,48,40,21,5.1,17-17-17
+33.58,54.21,73.42,Sandy,Other Rabi pulses,8,26,39,5.8,Muriate of Potash
+31.93,70.15,53.0,Clayey,Safflower,18,36,14,6.3,Ferrous Sulphate
+28.76,56.27,44.8,Sandy,Other Rabi pulses,45,31,12,5.6,Calcium Nitrate
+30.07,96.86,24.36,Clayey,Urad,45,44,0,5.3,17-17-17
+34.85,67.83,62.85,Black,Bajra,16,18,37,5.8,10-26-26
+21.36,43.53,62.17,Loamy,Maize,1,27,42,6.9,14-35-14
+30.01,83.76,56.84,Black,Jowar,39,27,44,7.4,Muriate of Potash
+24.25,59.73,50.62,Clayey,Other Rabi pulses,4,9,0,7.7,Zinc Sulphate
+29.6,79.21,46.03,Red,Linseed,38,19,10,5.2,Magnesium Sulphate
+29.11,56.78,55.6,Red,Linseed,47,24,42,6.5,Muriate of Potash
+22.3,74.24,34.0,Black,Moong(Green Gram),15,20,39,5.4,DAP
+23.1,86.33,76.48,Red,Gram,16,13,21,6.5,Zinc Sulphate
+29.32,95.68,55.33,Clayey,Linseed,26,21,34,6.5,10-26-26
+21.92,55.67,38.67,Loamy,Wheat,6,25,43,6.7,17-17-17
+23.98,60.09,46.98,Sandy,Ragi,7,43,5,8.1,Zinc Sulphate
+32.53,67.86,68.34,Clayey,Ragi,7,10,27,7.8,NPK
+24.91,95.63,29.7,Clayey,Maize,22,6,30,7.2,Ammonium Sulphate
+27.32,94.08,37.57,Sandy,Other Rabi pulses,31,16,7,8.1,10-26-26
+34.12,45.39,60.77,Sandy,Other Rabi pulses,42,17,4,7.4,Zinc Sulphate
+23.41,47.92,38.93,Loamy,Rice,46,6,41,7.9,Zinc Sulphate
+25.84,69.73,67.55,Loamy,Gram,17,19,47,7.0,DAP
+29.1,46.4,27.83,Loamy,Arhar(Tur),37,37,43,6.8,Calcium Nitrate
+31.33,60.73,65.76,Red,Other Kharif pulses,11,10,16,7.5,28-28-0
+33.52,48.9,24.1,Clayey,Safflower,14,43,37,5.1,Muriate of Potash
+33.73,78.16,20.76,Sandy,Moong(Green Gram),27,15,8,7.4,14-35-14
+31.65,96.97,73.89,Clayey,Rice,37,26,9,8.3,17-17-17
+23.42,99.8,54.88,Clayey,Other Kharif pulses,49,10,19,7.5,Urea
+20.37,62.51,41.11,Loamy,Arhar(Tur),30,15,13,5.1,NPK
+25.76,75.94,33.96,Loamy,Wheat,8,22,13,6.3,12-32-16
+22.12,91.38,57.01,Clayey,Ragi,7,11,25,7.8,14-35-14
+30.66,47.05,50.54,Loamy,Urad,45,39,28,8.4,DAP
+29.92,81.37,79.5,Red,Safflower,18,2,48,6.3,Urea
+20.66,64.53,78.99,Sandy,Maize,7,1,26,7.9,Single Super Phosphate
+32.55,52.37,58.1,Clayey,Moong(Green Gram),33,37,24,8.0,Muriate of Potash
+23.73,64.17,46.57,Sandy,Maize,3,47,15,5.4,Ammonium Sulphate
+26.48,44.56,49.47,Red,Jowar,30,23,35,8.0,Calcium Nitrate
+30.02,81.72,60.95,Loamy,Wheat,37,28,33,6.1,Potash
+26.44,55.16,26.09,Black,Niger,2,46,15,7.1,17-17-17
+26.62,58.68,39.7,Red,Jowar,34,45,32,6.9,NPK
+20.98,47.26,24.52,Black,Arhar(Tur),18,33,2,7.3,Muriate of Potash
+26.02,91.88,24.4,Sandy,Arhar(Tur),42,19,22,7.6,Potash
+31.47,69.61,31.75,Clayey,Niger,28,17,10,6.5,28-28-0
+33.73,74.33,49.12,Loamy,Safflower,9,13,47,8.1,Potash
+26.2,74.17,67.09,Red,Bajra,11,17,17,7.8,NPK
+26.35,64.63,49.13,Loamy,Niger,45,1,46,7.7,10-26-26
+30.54,51.55,40.13,Black,Linseed,29,0,40,6.6,Magnesium Sulphate
+34.14,84.71,24.94,Black,Arhar(Tur),29,19,43,5.1,17-17-17
+24.01,47.62,53.02,Clayey,Safflower,17,33,28,6.7,20-20-0
+26.6,46.23,36.28,Black,Rice,23,40,49,8.1,Urea
+31.94,82.61,56.9,Clayey,Rice,31,40,4,5.7,Magnesium Sulphate
+29.15,52.53,78.63,Red,Urad,8,47,23,8.4,Muriate of Potash
+21.66,58.41,26.68,Clayey,Ragi,46,10,28,7.8,Urea
+29.42,68.51,32.73,Black,Linseed,23,26,28,7.5,Ammonium Sulphate
+22.8,66.96,48.39,Sandy,Niger,25,22,25,7.4,10-26-26
+27.65,82.51,78.12,Clayey,Other Rabi pulses,2,37,39,7.1,17-17-17
+27.94,77.41,66.31,Loamy,Maize,22,43,2,7.5,Muriate of Potash
+33.14,78.66,73.89,Sandy,Linseed,10,2,1,6.5,Magnesium Sulphate
+26.94,82.84,40.02,Clayey,Ragi,9,11,24,8.0,Zinc Sulphate
+24.19,57.56,79.52,Loamy,Ragi,49,29,18,7.4,Potash
+23.46,59.34,26.17,Sandy,Rice,35,30,39,7.7,DAP
+33.11,66.28,23.18,Clayey,Maize,12,22,1,7.8,12-32-16
+22.57,58.45,71.34,Red,Urad,28,0,18,5.3,Muriate of Potash
+26.39,99.1,75.64,Loamy,Wheat,37,40,0,5.2,10-26-26
+22.81,88.84,25.44,Red,Bajra,12,19,26,7.8,Single Super Phosphate
+31.6,49.88,26.81,Black,Rice,25,5,44,5.9,12-32-16
+27.12,40.34,21.99,Clayey,Niger,19,10,48,7.0,Magnesium Sulphate
+25.27,42.57,26.27,Clayey,Safflower,4,34,34,6.6,28-28-0
+25.42,54.64,32.57,Loamy,Jowar,19,3,40,5.1,Single Super Phosphate
+32.78,46.86,78.2,Clayey,Bajra,13,28,4,5.1,Magnesium Sulphate
+28.31,72.0,60.07,Black,Wheat,44,9,37,7.9,Calcium Nitrate
+30.77,91.48,66.71,Clayey,Arhar(Tur),13,28,3,7.1,28-28-0
+33.46,84.21,66.57,Sandy,Ragi,7,37,16,6.8,NPK
+33.53,52.94,52.1,Red,Gram,47,0,20,8.3,17-17-17
+24.93,63.96,67.85,Black,Moong(Green Gram),12,39,47,5.6,Calcium Nitrate
+34.29,70.47,55.75,Black,Niger,23,7,30,5.9,Calcium Nitrate
+20.37,88.61,38.87,Red,Urad,14,37,47,7.6,DAP
+25.65,90.35,53.67,Red,Safflower,0,16,21,7.7,DAP
+33.44,94.58,52.01,Black,Ragi,21,18,10,6.4,10-26-26
+24.12,70.55,69.41,Red,Arhar(Tur),33,32,33,8.3,28-28-0
+24.1,81.66,78.9,Loamy,Wheat,49,14,48,8.3,Muriate of Potash
+24.54,46.71,44.66,Red,Jowar,39,44,14,5.0,Potash
+29.18,73.92,65.8,Sandy,Urad,2,30,49,5.6,14-35-14
+26.57,54.92,25.99,Sandy,Urad,25,20,9,7.9,DAP
+30.9,65.9,66.61,Loamy,Safflower,13,2,37,6.2,Magnesium Sulphate
+33.42,78.04,42.29,Red,Wheat,40,1,31,5.3,14-35-14
+30.11,55.42,22.36,Sandy,Other Rabi pulses,7,34,47,7.7,Ferrous Sulphate
+23.07,43.13,41.79,Clayey,Bajra,48,40,30,6.6,Calcium Nitrate
+33.99,40.61,56.64,Red,Other Kharif pulses,15,15,36,6.7,Magnesium Sulphate
+23.97,41.33,27.16,Loamy,Niger,41,44,43,5.7,10-26-26
+22.25,40.5,75.44,Red,Gram,20,49,27,7.3,Magnesium Sulphate
+21.35,46.62,24.66,Black,Ragi,9,20,30,6.9,17-17-17
+28.45,54.37,75.8,Black,Niger,24,11,5,5.7,DAP
+21.71,53.27,62.43,Sandy,Niger,37,27,13,6.2,Urea
+22.08,99.21,39.78,Black,Bajra,21,11,22,7.1,Muriate of Potash
+24.5,58.36,43.45,Loamy,Rice,48,32,15,8.2,Magnesium Sulphate
+24.22,47.65,64.45,Sandy,Wheat,47,19,24,8.2,17-17-17
+29.06,72.73,56.09,Loamy,Rice,46,39,38,6.0,14-35-14
+32.25,91.48,60.3,Loamy,Jowar,45,48,1,7.6,Ferrous Sulphate
+31.42,80.68,43.35,Black,Bajra,3,20,37,7.7,Magnesium Sulphate
+23.94,57.76,49.27,Black,Moong(Green Gram),3,38,40,7.8,Potash
+23.68,73.7,79.39,Loamy,Other Kharif pulses,29,40,38,7.0,NPK
+34.49,82.89,32.84,Black,Wheat,1,48,33,5.0,12-32-16
+20.12,83.69,45.07,Black,Wheat,28,41,39,7.7,17-17-17
+33.2,79.99,37.51,Black,Linseed,42,35,42,5.4,Calcium Nitrate
+23.0,92.25,65.91,Red,Other Kharif pulses,35,21,24,5.4,17-17-17
+34.21,92.21,65.84,Loamy,Urad,20,25,35,7.1,Zinc Sulphate
+25.13,74.74,37.55,Clayey,Arhar(Tur),20,6,15,8.4,10-26-26
+26.61,65.79,24.88,Loamy,Jowar,47,6,17,5.8,NPK
+30.61,78.49,20.69,Sandy,Bajra,20,7,12,7.3,Calcium Nitrate
+28.82,89.09,45.65,Black,Wheat,3,25,36,6.1,14-35-14
+24.77,40.34,44.62,Black,Wheat,0,23,26,8.1,12-32-16
+28.31,99.52,79.3,Clayey,Other Kharif pulses,25,23,33,7.1,Muriate of Potash
+30.96,50.97,48.19,Sandy,Moong(Green Gram),1,39,10,5.7,Magnesium Sulphate
+20.64,68.21,35.39,Red,Other Kharif pulses,8,47,0,5.9,Ammonium Sulphate
+20.17,92.32,73.47,Loamy,Niger,44,11,12,6.5,14-35-14
+26.87,53.5,49.46,Red,Other Kharif pulses,17,46,29,5.4,Single Super Phosphate
+21.98,68.61,55.95,Sandy,Ragi,47,7,4,5.3,Magnesium Sulphate
+29.97,47.95,25.74,Clayey,Bajra,47,8,17,7.4,Calcium Nitrate
+23.21,63.7,42.97,Sandy,Gram,41,2,13,6.4,10-26-26
+26.49,50.63,76.65,Clayey,Urad,40,20,12,7.5,12-32-16
+22.97,61.82,55.37,Red,Other Kharif pulses,10,30,31,5.4,Calcium Nitrate
+28.23,62.41,40.67,Red,Moong(Green Gram),24,47,6,7.1,10-26-26
+21.74,99.59,57.54,Sandy,Urad,25,46,7,6.6,Urea
+20.35,99.69,74.62,Sandy,Safflower,35,23,49,5.2,12-32-16
+20.77,46.89,36.44,Black,Maize,41,3,6,6.9,Ammonium Sulphate
+34.31,83.56,50.31,Clayey,Bajra,34,19,48,5.3,Single Super Phosphate
+22.13,43.1,77.52,Black,Wheat,37,15,15,7.9,Urea
+30.63,41.81,30.34,Loamy,Niger,2,9,42,7.2,28-28-0
+21.02,46.32,63.18,Loamy,Linseed,40,42,30,6.9,28-28-0
+21.62,97.93,56.87,Sandy,Other Rabi pulses,34,25,26,5.5,NPK
+27.63,96.45,60.78,Red,Maize,49,28,32,6.0,Ferrous Sulphate
+26.97,51.64,41.07,Loamy,Urad,39,4,28,6.7,Ferrous Sulphate
+34.27,49.7,38.83,Loamy,Urad,21,10,7,7.2,10-26-26
+34.17,54.43,61.05,Black,Niger,7,28,32,5.6,Single Super Phosphate
+31.69,70.93,32.93,Black,Bajra,14,44,40,5.0,14-35-14
+29.03,74.18,45.18,Loamy,Arhar(Tur),44,14,18,6.2,NPK
+26.82,53.3,31.29,Sandy,Ragi,6,5,20,6.7,Zinc Sulphate
+25.34,85.4,20.5,Black,Safflower,18,47,40,5.6,Muriate of Potash
+34.21,58.57,78.2,Loamy,Wheat,39,14,20,6.7,Single Super Phosphate
+29.04,95.33,45.9,Red,Maize,41,42,24,6.2,Urea
+28.69,79.4,78.16,Black,Niger,16,19,41,6.6,Magnesium Sulphate
+23.48,66.18,28.42,Loamy,Safflower,0,33,22,6.2,Single Super Phosphate
+20.7,87.39,55.24,Clayey,Other Kharif pulses,44,1,10,7.2,Ammonium Sulphate
+34.18,89.07,32.06,Black,Jowar,28,43,32,5.2,DAP
+24.71,57.43,67.4,Clayey,Gram,12,15,19,5.6,Muriate of Potash
+26.64,60.38,67.02,Black,Arhar(Tur),47,18,24,6.5,20-20-0
+21.72,96.16,26.76,Black,Niger,28,33,25,6.2,Single Super Phosphate
+32.55,49.88,74.72,Clayey,Wheat,40,48,39,6.4,28-28-0
+20.41,42.53,31.68,Sandy,Jowar,41,13,11,7.8,Urea
+32.51,67.24,56.78,Loamy,Gram,5,23,31,8.1,Potash
+22.1,88.07,79.14,Sandy,Ragi,4,27,32,5.9,12-32-16
+33.3,86.3,72.94,Sandy,Gram,33,47,9,7.9,DAP
+30.95,95.17,77.39,Loamy,Other Rabi pulses,10,31,3,6.6,DAP
+22.47,71.99,40.56,Red,Jowar,8,36,14,6.0,Magnesium Sulphate
+28.49,46.0,26.33,Sandy,Other Kharif pulses,37,9,5,8.4,Urea
+24.69,75.32,31.3,Sandy,Jowar,39,48,26,7.9,28-28-0
+22.67,86.7,50.03,Sandy,Arhar(Tur),40,44,4,8.5,20-20-0
+32.89,45.6,67.59,Red,Rice,8,47,4,5.6,Zinc Sulphate
+26.05,50.36,29.01,Black,Arhar(Tur),7,8,17,5.5,Ferrous Sulphate
+25.98,40.74,59.58,Clayey,Other Kharif pulses,43,23,27,6.8,10-26-26
+22.55,75.62,39.41,Clayey,Maize,39,35,34,7.2,10-26-26
+25.75,93.2,40.47,Red,Rice,2,28,21,5.6,DAP
+33.07,80.24,59.72,Sandy,Ragi,12,28,33,8.0,Ferrous Sulphate
+25.45,98.92,48.02,Clayey,Arhar(Tur),18,47,3,6.9,Urea
+34.27,43.78,68.72,Red,Rice,33,22,17,6.4,Calcium Nitrate
+34.19,94.18,29.36,Loamy,Urad,31,26,40,7.1,Muriate of Potash
+22.17,88.84,67.4,Clayey,Safflower,48,30,25,7.2,Single Super Phosphate
+22.66,58.85,23.85,Loamy,Arhar(Tur),15,42,41,5.1,Ferrous Sulphate
+32.94,98.41,31.64,Sandy,Rice,35,6,21,8.5,17-17-17
+25.89,57.28,59.37,Clayey,Bajra,17,48,46,6.3,10-26-26
+20.07,93.36,71.3,Red,Maize,13,44,32,5.2,12-32-16
+24.11,92.84,35.16,Black,Wheat,29,3,42,8.0,Zinc Sulphate
+28.96,85.46,39.63,Clayey,Jowar,1,13,13,8.5,28-28-0
+31.99,73.81,52.23,Clayey,Safflower,12,41,30,7.9,Zinc Sulphate
+22.0,47.2,32.69,Clayey,Rice,26,41,9,8.0,Ammonium Sulphate
+21.66,71.92,68.67,Clayey,Wheat,16,9,23,7.2,Magnesium Sulphate
+33.83,61.41,66.42,Red,Arhar(Tur),30,43,20,8.2,Potash
+31.27,87.53,28.72,Red,Gram,14,33,47,5.1,Zinc Sulphate
+28.85,85.49,47.83,Black,Wheat,19,25,7,7.7,Zinc Sulphate
+31.54,94.64,66.49,Red,Urad,4,22,31,7.3,DAP
+26.43,40.89,40.24,Red,Niger,6,8,30,5.2,Muriate of Potash
+31.38,88.55,57.99,Sandy,Moong(Green Gram),17,36,33,6.9,14-35-14
+25.58,96.31,23.01,Sandy,Moong(Green Gram),10,7,22,6.8,28-28-0
+23.66,87.36,56.52,Loamy,Maize,31,13,24,7.4,Magnesium Sulphate
+30.94,47.81,29.16,Black,Other Rabi pulses,49,6,6,5.3,28-28-0
+26.3,44.88,69.83,Sandy,Safflower,26,6,18,7.8,Ferrous Sulphate
+34.72,41.25,41.33,Black,Rice,25,8,6,5.5,Urea
+25.24,77.72,36.89,Black,Safflower,36,2,46,6.5,Magnesium Sulphate
+33.83,77.78,70.45,Clayey,Urad,44,13,7,8.1,Ferrous Sulphate
+33.99,99.21,23.01,Black,Jowar,27,16,13,7.0,Magnesium Sulphate
+23.63,63.88,43.8,Clayey,Ragi,49,49,0,6.3,Urea
+31.97,59.91,42.2,Loamy,Other Kharif pulses,1,43,12,5.2,Calcium Nitrate
+26.5,77.47,37.09,Loamy,Niger,19,21,2,7.4,17-17-17
+33.76,89.54,74.71,Loamy,Maize,3,45,27,8.5,17-17-17
+26.75,96.21,65.06,Clayey,Other Kharif pulses,12,25,37,8.2,10-26-26
+31.16,88.19,23.84,Clayey,Linseed,23,27,14,7.5,Muriate of Potash
+27.0,65.6,62.88,Loamy,Safflower,47,44,35,5.4,Single Super Phosphate
+23.42,78.09,51.64,Clayey,Moong(Green Gram),37,13,2,5.8,28-28-0
+22.99,91.38,74.05,Red,Gram,39,8,3,5.7,28-28-0
+26.38,69.44,38.78,Red,Bajra,47,25,4,6.2,20-20-0
+31.33,53.0,54.45,Clayey,Ragi,44,1,49,5.8,Ferrous Sulphate
+29.08,50.18,50.05,Clayey,Ragi,28,10,25,5.9,20-20-0
+30.33,40.01,49.37,Sandy,Other Kharif pulses,35,16,24,7.2,Single Super Phosphate
+24.23,83.09,47.37,Sandy,Bajra,1,33,9,6.1,Zinc Sulphate
+27.22,46.67,32.34,Black,Other Rabi pulses,40,18,7,7.4,Single Super Phosphate
+20.67,54.63,65.34,Black,Other Rabi pulses,17,38,11,8.3,Ferrous Sulphate
+32.26,57.87,47.08,Black,Safflower,48,17,2,7.2,12-32-16
+34.85,73.62,77.51,Loamy,Other Rabi pulses,7,12,26,7.6,NPK
+26.1,63.88,35.65,Red,Arhar(Tur),14,4,49,7.6,17-17-17
+20.16,80.48,60.96,Loamy,Gram,40,49,22,6.2,17-17-17
+22.55,43.34,76.44,Clayey,Wheat,16,22,39,5.1,20-20-0
+29.79,47.44,59.81,Sandy,Maize,22,23,32,5.2,14-35-14
+29.18,69.95,72.28,Clayey,Urad,1,28,13,6.0,17-17-17
+31.82,60.22,69.65,Clayey,Ragi,5,47,22,7.4,Urea
+23.81,57.75,41.61,Sandy,Other Kharif pulses,28,46,30,8.2,Potash
+31.45,44.02,56.01,Clayey,Safflower,26,7,12,8.4,Urea
+30.32,93.74,29.38,Black,Linseed,36,25,11,5.1,10-26-26
+24.84,81.51,52.13,Sandy,Wheat,48,14,34,8.5,Ferrous Sulphate
